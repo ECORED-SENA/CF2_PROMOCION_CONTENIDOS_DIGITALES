@@ -1,0 +1,201 @@
+// banner interno // 
+.banner-interno__fondo
+  background-image: url('../assets/curso/portada/banner-interno.png') !important
+//-----------------//
+
+// Texto resaltado // 
+span
+  &.r-1
+    color: $color-primario !important
+    font-weight: bold
+  &.r-2
+    color: $color-secundario !important
+    font-weight: bold
+  &.r-3
+    color: $color-acento-contenido !important
+    font-weight: bold
+  &.r-4
+    color: $color-acento-botones !important
+    font-weight: bold
+  &.r-5
+    color: $color-sistema-texto !important
+  &.f-1
+    background-color: rgba($color-primario, 0.2)
+  &.f-2
+    background-color: rgba($color-secundario, 0.3)
+  &.f-3
+    background-color: rgba($color-acento-contenido, 0.3 )
+  &.f-4
+    background-color: rgba($color-acento-botones, 0.3)
+// -------------------------------// 
+// Tarjteta up // 
+.tarjeta-up
+  position: relative
+  overflow: hidden
+  width: 100%
+  border-radius: 20px
+  &__content
+    border-radius: 10px 10px 0px 0px 
+    position: absolute
+    width: 100%
+    height: 55%
+    bottom: -26%
+    left: 0
+    transition: bottom 0.5s ease-in-out, height 0.5s ease-in-out
+    p
+      opacity: 0
+      transition: opacity 0.3s ease-in-out
+    p, h1, h2, h3, h4, h5, h6
+      color: white !important
+    &.color-primario
+      background-color: $color-primario
+    &.color-secundario
+      background-color: $color-secundario
+    &.color-acento-contenido
+      background-color: $color-acento-contenido
+    &.color-acento-botones
+      background-color: $color-acento-botones
+  &:hover
+    .tarjeta-up__content
+      bottom: 0
+      height: 80%
+      p
+        opacity: 1
+// tarjeta slide arriba // 
+.tarjeta-slide
+  &-arriba
+    position: relative
+    overflow: hidden
+    width: 100%
+    &__img
+      position: absolute
+      width: 100%
+      top: 0
+      left: 0
+      transition: transform 0.3s ease-in-out
+      transform: translateY(-100%)
+    &:hover
+      .tarjeta-slide-arriba__img
+        transform: translateY(0)
+  &-abajo
+    position: relative
+    overflow: hidden
+    width: 100%
+    &__img
+      position: absolute
+      width: 100%
+      bottom: 0
+      left: 0
+      transition: transform 0.3s ease-in-out
+      transform: translateY(100%)
+    &:hover
+      .tarjeta-slide-abajo__img
+        transform: translateY(0)
+  &-derecha
+    position: relative
+    overflow: hidden
+    width: 100%
+    &__img
+      position: absolute
+      width: 100%
+      bottom: 0
+      left: 0
+      transition: transform 0.3s ease-in-out
+      transform: translateX(-100%)
+    &:hover
+      .tarjeta-slide-derecha__img
+        transform: translateY(0)
+  &-izquierda
+    position: relative
+    overflow: hidden
+    width: 100%
+    &__img
+      position: absolute
+      width: 100%
+      bottom: 0
+      right: 0
+      transition: transform 0.3s ease-in-out
+      transform: translateX(100%)
+    &:hover
+      .tarjeta-slide-izquierda__img
+        transform: translateY(0)
+.titulo.rounded-pill
+  &.color-primario
+    background-color: $color-primario
+  &.color-secundario
+    background-color: $color-secundario
+  &.color-acento-contenido
+    background-color: $color-acento-contenido
+  &.color-acento-botones
+    background-color: $color-acento-botones
+// Hover bgs ////R
+.hbg
+  &--1
+    transition: background-color 0.3s ease-in-out
+    &:hover
+      background-color: $color-primario  !important
+      h1, h2, h3, h4, h5, h6, p
+        color: white !important
+  &--2
+    transition: background-color 0.3s ease-in-out
+    &:hover
+      background-color: $color-secundario !important
+      h1, h2, h3, h4, h5, h6, p
+        color: white !important
+  &--3
+    transition: background-color 0.3s ease-in-out
+    &:hover
+      background-color: $color-acento-contenido !important
+  &--4
+    transition: background-color 0.3s ease-in-out
+    &:hover
+      background-color: $color-acento-botones !important
+.bg-1-claro
+  background-color: #d7e4f6 !important
+.bg-1-claro2
+  background-color: #ecf2f2 !important
+.bg-3-claro
+  background-color: #c9f0ee !important
+.divisor
+  margin: 0 -3rem
+  padding: 3rem
+  background-color: #f3f9ff
+.tabla-1
+  thead
+    background-color: $color-primario
+    th
+      color: white
+      text-align: center
+  tbody
+    tr
+      &:nth-child(even)
+        background-color: #efefef
+      &:nth-child(odd)
+        background-color: $white
+.texto-sistema
+  color: $color-sistema-texto !important
+  h1, h2, h3, h4, h5, h6, b , th, p
+    color: $color-sistema-texto !important
+// Backgrounds claros //
+.bg-claro
+  &.color-primario
+    background-color: rgba($color-primario, 0.2) !important
+  &.color-secundario
+    background-color: rgba($color-secundario, 0.15) !important
+  &.color-acento-contenido
+    background-color: rgba($color-acento-contenido, 0.3 ) !important
+  &.color-acento-botones
+    background-color: rgba($color-acento-botones, 0.3) !important
+.bg-verde
+  background-color: #bcd9dd
+.margin-n
+  margin: 0 -3rem
+  padding: 3rem 
+.slyder-btns
+  .slyder__btn
+    background-color: #f9e549 !important
+    i
+      color: $color-sistema-texto
+  .slyder__pagination
+      color: $color-sistema-texto
+

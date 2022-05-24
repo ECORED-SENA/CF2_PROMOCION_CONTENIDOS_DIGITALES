@@ -1,8 +1,9 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo: 'Segmentación y prospección de clientes',
+    descripcionCurso:
+      'Es necesario conocer al cliente en detalle y realizar una propuesta comercial que le sea atractiva y adaptada a sus gustos y necesidades. En este sentido, realizar procesos de prospección, manejar adecuadamente los datos a través de los sistemas de información y desarrollar un excelente portafolio de productos, se convertirán en la mejor opción para vender el producto con eficacia en el público objetivo.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
   },
   menuPrincipal: {
