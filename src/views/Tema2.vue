@@ -166,34 +166,34 @@
     .row.justify-content-center.mb-5
       .col-lg-9
         .row.justify-content-center
-          .col-lg-8: p(data-aos='fade-right') El derecho de habeas data es el derecho que tienen las personas para: “conocer, actualizar y rectificar la información que se haya recogido sobre ella en archivos y bancos de datos de naturaleza pública o privada” (SIC, 2021).
+          .col-lg-8.order-2.order-lg-1: p(data-aos='fade-right') El derecho de habeas data es el derecho que tienen las personas para: “conocer, actualizar y rectificar la información que se haya recogido sobre ella en archivos y bancos de datos de naturaleza pública o privada” (SIC, 2021).
             br
             br
             | La Corte Constitucional la define como “el derecho que otorga la facultad al titular de datos personales de exigir de las administradoras de esos datos el acceso, inclusión, exclusión, corrección, adición, actualización y certificación de los datos, así como la limitación en las posibilidades de su divulgación, publicación o cesión, de conformidad con los principios que regulan el proceso de administración de datos personales”, con lo anterior se explica que es la persona quien es dueña de la administración de sus datos personales y es la única autorizada para divulgarlos o ceder el derecho de divulgación a una administradora de datos, como a otras personas.
-          .col-lg-4.col-8: img.rounded-3(data-aos='zoom-in')(src='@/assets/curso/temas/66.jpg')
-          .col-12 
+          .col-lg-4.col-8.order-1.order-lg-2.mb-3.mb-lg-0: img.rounded-3(data-aos='zoom-in')(src='@/assets/curso/temas/66.jpg')
+          .col-12.order-3 
             p En este sentido, los titulares o dueños de la información que reposa en los bancos de datos, son las personas naturales o jurídicas a quienes se hace referencia y son la principal fuente de información para suministrar en diferentes casos.
-          .col-12 
+          .col-12.order-45 
             .d-flex.align-items-center.justify-content-center.mb-3
               img(src="@/assets/curso/temas/dots-3.svg" style="width: 84px").me-3.d-lg-block.d-none
               p.mb-0 En cuanto al manejo de la información o datos personales, existen usuarios que deben acceder a la información con fines de consulta y de toma de decisiones, por ejemplo, los bancos o entidades financieras al momento de aprobar o no una solicitud.
-      .col-lg-3
+      .col-lg-3.col-8
         img(src='@/assets/curso/temas/67.jpg', alt='Texto que describa la imagen')
     p.mb-5(data-aos='fade-right') De acuerdo con el Habeas Data, el dato personal es cualquier porción de información que se encuentra vinculada a una o varias personas, naturales o jurídicas de forma pública, privada o semiprivada. El carácter de público, semiprivado o privado lo confiere la ley y la Constitución, por ejemplo:
     .row.justify-content-center.mb-5(data-aos='zoom-in')
-      .col-lg-3
+      .col-lg-3.mb-3.mb-lg-0
         .tarjeta.color-primario.p-4.h-100
           .d-flex.align-items-center.mb-3
             img(src='@/assets/curso/temas/68.svg' style='width:69px').me-3.mb-3.mb-lg-0
             h4.text-white.mb-0 Dato público
           p El que está contenido en un documento público, sentencia judicial o ejecutorial.
-      .col-lg-3
+      .col-lg-3.mb-3.mb-lg-0
         .tarjeta.color-primario.p-4.h-100
           .d-flex.align-items-center.mb-3
             img(src='@/assets/curso/temas/69.svg' style='width:69px').me-3.mb-3.mb-lg-0
             h4.text-white.mb-0 Dato semiprivado
           p El que está contenido en una entidad financiera o crediticia.
-      .col-lg-3
+      .col-lg-3.mb-3.mb-lg-0
         .tarjeta.color-primario.p-4.h-100
           .d-flex.align-items-center.mb-3
             img(src='@/assets/curso/temas/70.svg' style='width:69px').me-3.mb-3.mb-lg-0
