@@ -434,19 +434,19 @@
         .tarjeta.color-primario.p-4.h-100
           .d-flex.align-items-center.mb-3
             img(src='@/assets/curso/temas/47.svg' style='width:69px').me-3.mb-3.mb-lg-0
-            h4.text-white Decisor
+            h4.text-white.mb-0 Decisor
           p Es quien toma la decisión de comprar el producto.
       .col-lg-3
         .tarjeta.color-primario.p-4.h-100
           .d-flex.align-items-center.mb-3
             img(src='@/assets/curso/temas/48.svg' style='width:69px').me-3.mb-3.mb-lg-0
-            h4.text-white Prescriptor
+            h4.text-white.mb-0 Prescriptor
           p Es quien recomienda el producto.
       .col-lg-3
         .tarjeta.color-primario.p-4.h-100
           .d-flex.align-items-center.mb-3
             img(src='@/assets/curso/temas/49.svg' style='width:69px').me-3.mb-3.mb-lg-0
-            h4.text-white Influenciador
+            h4.text-white.mb-0 Influenciador
           p Es quien opina e influencia en la compra.
     .row.justify-content-center.mb-5
       .col-lg-8(data-aos='fade-right')
