@@ -1,7 +1,7 @@
 <template lang="pug">
 .curso-main-container.pb-3
   BannerInterno
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
+  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5.bg-tema1
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
@@ -502,6 +502,11 @@ export default {
 </script>
 
 <style lang="sass">
+.bg-tema1
+  background-image: url(../assets/curso/temas/bg-tema1.png)
+  background-repeat: no-repeat
+  background-size: 100% 100%
+  background-position: start
 .card-fondo
   &--0
     background-image: url(../assets/curso/temas/4.jpg)

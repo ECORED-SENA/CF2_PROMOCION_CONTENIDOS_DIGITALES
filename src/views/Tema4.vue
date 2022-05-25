@@ -1,7 +1,7 @@
 <template lang="pug">
   .curso-main-container.pb-3
     BannerInterno
-    .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
+    .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5.bg-tema4
       .titulo-principal.color-acento-contenido
         .titulo-principal__numero
           span 4
@@ -113,7 +113,7 @@
       .d-flex.align-items-center.justify-content-center.mb-3
         img(src="@/assets/curso/temas/dots.svg" style="width: 84px").me-3.d-lg-block.d-none
         p.mb-0(data-aos='fade-right') La matriz consta de 2 ejes, el eje vertical (y) que representa el crecimiento del mercado (alto y bajo) y el eje horizontal (x) que representa la participación de ese producto en el mercado (alto y bajo). El cruce de estos ejes conforma cuatro cuadrantes donde se ubican los diferentes productos del portafolio, cada cuadrante es representado por una estrella, una vaca lechera, un perro y un signo de interrogación.
-      .tarjeta.bg-white.p-5
+      .tarjeta.bg-white.p-5.mb-5
         .row.justify-content-center.mb-5
           .col-lg-7
             figure.mb-5
@@ -181,6 +181,11 @@ export default {
 </script>
 
 <style lang="sass">
+.bg-tema4
+  background-image: url(../assets/curso/temas/bg-tema4.png)
+  background-repeat: no-repeat
+  background-size: 100% 100%
+  background-position: start
 .tarjetas-circulo
   position: relative
   background-color:  $color-primario

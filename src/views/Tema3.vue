@@ -1,7 +1,7 @@
 <template lang="pug">
   .curso-main-container.pb-3
     BannerInterno
-    .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
+    .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5.bg-tema3
       .titulo-principal.color-acento-contenido
         .titulo-principal__numero
           span 3
@@ -343,4 +343,9 @@ export default {
   background-color: #1e3149
 .tabs-a__tab
   background-color: #e6e6e6
+.bg-tema3
+  background-image: url(../assets/curso/temas/bg-tema3.png)
+  background-repeat: no-repeat
+  background-size: 100% 100%
+  background-position: start
 </style>
