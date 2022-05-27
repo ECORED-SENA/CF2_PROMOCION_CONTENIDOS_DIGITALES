@@ -10,7 +10,7 @@
       .col-lg-9
         .row.justify-content-center
           .col-lg-8: p(data-aos='fade-right') La validez de la información es un aspecto muy importante en la gran diversidad de proyectos que las nuevas tecnologías traen en el siglo XXI. Muchas decisiones en el ámbito social, ambiental y empresarial, dependen en gran parte del acceso y buen manejo de la información, teniendo especial cuidado con aquella que proviene de fuentes no confiables como algunas redes sociales, sitios de internet y otros medios de comunicación.
-          .col-lg-4.col-8: img.rounded-3(data-aos='zoom-in')(src='@/assets/curso/temas/51.jpg')
+          .col-lg-4.col-8.mb-3.mb-lg-0: img.rounded-3(data-aos='zoom-in')(src='@/assets/curso/temas/51.jpg')
           .col-12 
             .d-flex.align-items-center.justify-content-center.mb-3
               img(src="@/assets/curso/temas/dots-3.svg" style="width: 84px").me-3.d-lg-block.d-none

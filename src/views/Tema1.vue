@@ -252,7 +252,7 @@
           img(src='@/assets/curso/temas/31.svg' )
     Separador
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 1.4  Arquetipos y buyer persona
+      h2 1.4  Arquetipos y <em>buyer</em>persona
     .row.justify-content-center
       .col-lg-9
         .row.justify-content-center.mb-3
@@ -364,14 +364,14 @@
                 .bloque-texto-d__texto.mb-3
                   i.fas.fa-quote-left
                   p.text-regular El concepto de 
-                    span.r-1.fst-italic buyer persona 
+                    span.r-1.fst-italic <em>buyer</em>persona 
                     | es la construcción de un personaje ficticio usando aspectos etnográficos de una comunidad y aspectos psicográficos similares a otros individuos. Entre los aspectos etnográficos se destacan la edad, sexo, nivel económico y educativo, y aspectos psicográficos como el estilo de vida, formas de pensar y de actuar. 
                   i.fas.fa-quote-right
                 .bloque-texto-d__autor 
                   .h6.mb-0 (García, et al., 2019, p. 14-15). 
           .col-auto
-            p Valdés (2019), experto en mercadeo y buyer persona, presenta que el buyer persona es la construcción de un modelo de cliente con elementos de conducta online, comportamiento personal, orientación profesional y de relacionamiento con la empresa. Hoy día, el buyer persona se convierte en un pilar fundamental del inbound marketing (mercadeo de contenidos de valor), porque da a conocer los intereses, dolores y sentimientos del cliente y la información del lugar donde ese cliente busca el producto.
-    p.mb-5 Para que la empresa tenga una idea clara del buyer persona, se requiere reunir información relevante para crear un contenido de acuerdo con los intereses del público, la imagen de marca y el canal de distribución. La información que debe reunirse es:
+            p Valdés (2019), experto en mercadeo y <em>buyer</em>persona, presenta que el <em>buyer</em>persona es la construcción de un modelo de cliente con elementos de conducta online, comportamiento personal, orientación profesional y de relacionamiento con la empresa. Hoy día, el <em>buyer</em>persona se convierte en un pilar fundamental del inbound marketing (mercadeo de contenidos de valor), porque da a conocer los intereses, dolores y sentimientos del cliente y la información del lugar donde ese cliente busca el producto.
+    p.mb-5 Para que la empresa tenga una idea clara del <em>buyer</em>persona, se requiere reunir información relevante para crear un contenido de acuerdo con los intereses del público, la imagen de marca y el canal de distribución. La información que debe reunirse es:
     .row.justify-content-center.mb-5
       .col-lg-3.col-8.mb-3.mb-lg-0
         .tarjeta.tarjeta-slide-arriba.bg-3-claro.p-5(style='height: 295px ')
@@ -431,21 +431,21 @@
                 |Adquisición del producto.
                 br
                 |Interacción con la marca.
-    p.text-center.mb-5 En otros aspectos, Valdés amplía el concepto de buyer persona, dividiéndola en tres perfiles:
+    p.text-center.mb-5 En otros aspectos, Valdés amplía el concepto de <em>buyer</em>persona, dividiéndola en tres perfiles:
     .row.justify-content-center.mb-5(data-aos='zoom-in')
-      .col-lg-3
+      .col-lg-3.mb-3.mb-lg-0
         .tarjeta.color-primario.p-4.h-100
           .d-flex.align-items-center.mb-3
             img(src='@/assets/curso/temas/47.svg' style='width:69px').me-3.mb-3.mb-lg-0
             h4.text-white.mb-0 Decisor
           p Es quien toma la decisión de comprar el producto.
-      .col-lg-3
+      .col-lg-3.mb-3.mb-lg-0
         .tarjeta.color-primario.p-4.h-100
           .d-flex.align-items-center.mb-3
             img(src='@/assets/curso/temas/48.svg' style='width:69px').me-3.mb-3.mb-lg-0
             h4.text-white.mb-0 Prescriptor
           p Es quien recomienda el producto.
-      .col-lg-3
+      .col-lg-3.mb-3.mb-lg-0
         .tarjeta.color-primario.p-4.h-100
           .d-flex.align-items-center.mb-3
             img(src='@/assets/curso/temas/49.svg' style='width:69px').me-3.mb-3.mb-lg-0
@@ -453,7 +453,7 @@
           p Es quien opina e influencia en la compra.
     .row.justify-content-center.mb-5
       .col-lg-8(data-aos='fade-right')
-        p Para la creación del buyer persona, usted puede tener presentes los siguiente cuatro pasos con los que se consolida este modelo de proyección:
+        p Para la creación del <em>buyer</em>persona, usted puede tener presentes los siguiente cuatro pasos con los que se consolida este modelo de proyección:
         ol.lista-ol--cuadro
           li
             .lista-ol--cuadro__vineta
@@ -472,7 +472,7 @@
           li
             .lista-ol--cuadro__vineta
               span 4
-            | Cree el perfil del buyer persona, integrando los elementos más relevantes alcanzados durante el proceso. 
+            p.mb-0 Cree el perfil del <em>buyer</em> persona, integrando los elementos más relevantes alcanzados durante el proceso. 
       .col-lg-4.col-8(data-aos='zoom-in-up'): img(src='@/assets/curso/temas/50.jpg')
 
 
@@ -526,4 +526,6 @@ export default {
   .bloque-texto-d:before
     opacity: .2 !important
     height: 50%
+.pasos-a__linea__esquina__linea
+  border-radius: 0px
 </style>
