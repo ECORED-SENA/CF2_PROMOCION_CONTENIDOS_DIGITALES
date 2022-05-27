@@ -117,8 +117,8 @@
         .row.justify-content-center.mb-5
           .col-lg-7
             figure.mb-5
-              img(src='@/assets/curso/temas/112.svg', alt='Texto que describa la imagen')
-              figcaption Nota: tomado de Boston Consulting Group
+              img(src='@/assets/curso/temas/112.svg', alt='Texto que describa la imagen').mb-3
+              figcaption.fw-normal Nota: tomado de Boston Consulting Group
         .tarjeta.bg-verde-claro.p-5
           SlyderA(tipo="b")
             .row.align-items-center
@@ -201,7 +201,7 @@ export default {
     font-weight: bold
     p.number
       font-weight: bold
-      color: $color-secundario !important
+      color: #0d54c3 !important
       font-size: 61px
 .acordion-a
   .acordion__accion

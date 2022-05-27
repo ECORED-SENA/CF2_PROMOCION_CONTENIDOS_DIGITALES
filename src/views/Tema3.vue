@@ -348,4 +348,7 @@ export default {
   background-repeat: no-repeat
   background-size: 100% 100%
   background-position: start
+.tabs-b.color-primario .tabs-b__tab--active
+  span
+    color: $color-primario
 </style>

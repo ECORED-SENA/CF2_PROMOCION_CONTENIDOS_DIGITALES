@@ -3,7 +3,7 @@
   .container.tarjeta.position-relative(
     :style="{'background-image': globalData.fondoBannerPrincipal ? `url(${globalData.fondoBannerPrincipal})` : 'none'}"
   )
-    .row.banner-principal__row.position-relative.justify-content-center.align-items-center.g-5
+    .row.banner-principal__row.position-relative.justify-content-center.align-items-center
       .col-lg-7.col-xxl-6.py-4.py-sm-5.banner-principal__info.ps-5
         .banner-principal__componente
           h1.mb-0(v-html="globalData.componenteFormativo")
@@ -17,14 +17,13 @@
 
       .d-none.d-lg-block.col-lg-6.px-0.banner-principal__img
         img(:src="globalData.imagenBannerPrincipal" style="width: 606px")
-    .imagen_flotante_1: img(src="@/assets/curso/portada/float1.png")
-    .imagen_flotante_2: img(src="@/assets/curso/portada/float2.png")
-    .imagen_flotante_3: img(src="@/assets/curso/portada/float3.png")
-    .imagen_flotante_4: img(src="@/assets/curso/portada/float4.png")
-    .imagen_flotante_5: img(src="@/assets/curso/portada/float5.png")
-    .imagen_flotante_6: img(src="@/assets/curso/portada/float6.png")
-    .imagen_flotante_7: img(src="@/assets/curso/portada/float7.png")
-    .imagen_flotante_8: img(src="@/assets/curso/portada/float8.png")
+    .imagen_flotante_1.d-none.d-lg-block: img(src="@/assets/curso/portada/float1.png")
+    .imagen_flotante_2.d-none.d-lg-block: img(src="@/assets/curso/portada/float2.png")
+    .imagen_flotante_3.d-none.d-lg-block: img(src="@/assets/curso/portada/float3.png")
+    .imagen_flotante_4.d-none.d-lg-block: img(src="@/assets/curso/portada/float4.png")
+    .imagen_flotante_5.d-none.d-lg-block: img(src="@/assets/curso/portada/float5.png")
+    .imagen_flotante_6.d-none.d-lg-block: img(src="@/assets/curso/portada/float6.png")
+    .imagen_flotante_7.d-none.d-lg-block: img(src="@/assets/curso/portada/float7.png")
     //- .imagen_flotante_9: img(src="@/assets/curso/portada/float9.png")
   
 
@@ -62,7 +61,7 @@ export default {
   .tarjeta
     background-color: $color-banner-fondo
     background-size: cover
-    background-position: center
+    background-position: 50%
 
   &__info
     display: flex

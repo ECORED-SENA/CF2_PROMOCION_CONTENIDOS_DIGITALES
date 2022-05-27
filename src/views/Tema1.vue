@@ -9,7 +9,7 @@
     .row.justify-content-center.mb-5
       .col-lg-7(data-aos='fade-right') 
         p.mb-4  El concepto prospección de clientes, hace referencia a la identificación y geolocalización del target potencial que pueden convertirse en usuarios o consumidores del producto. Estos procesos se logran con la aplicación de metodologías de segmentación y de investigación de mercados que permiten encontrar los clientes potenciales de la organización. 
-        .d-flex.align-items-center.justify-content-center
+        .d-flex.align-items-center.justify-content-center.mb-3.mb-lg-0
             img(src="@/assets/curso/temas/dots.svg" style="width: 84px").me-3.d-lg-block.d-none
             p.mb-0 Con el fin de ampliar el concepto y también los elementos que hacen parte de la prospección la siguiente, la siguiente figura detalla aspectos que son relevantes en el ciclo de la venta y los factores que lo integran a nivel de validación, referidos y la forma como se gestionan.
       .col-lg-5.col-8: img.rounded-3(data-aos='zoom-in-up')(src="@/assets/curso/temas/0.jpg")
@@ -19,6 +19,7 @@
           h5 Figura 1
           span Proceso de la venta
         img(data-aos='zoom-in')(src="@/assets/curso/temas/1.svg").mb-5
+    Separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 1.1  Etapas de la prospección
     p.mb-5(data-aos='fade-right') Torres (2014): define que el proceso de prospección consta de 3 etapas: 
@@ -30,7 +31,7 @@
           span Etapas de prospección
         img(src="@/assets/curso/temas/2.svg").mb-5
     .row.justify-content-center.mb-5
-      .col-lg-5.col-8: img.rounded-3(data-aos='zoom-in')(src="@/assets/curso/temas/3.jpg")
+      .col-lg-5.col-8: img.rounded-3(data-aos='zoom-in')(src="@/assets/curso/temas/3.jpg").mb-3.mb-lg-0
       .col-lg-7(data-aos='fade-left')
         p Cada una de las etapas, desarrolla unos subprocesos o pasos para su perfecta ejecución:
         ul.lista-ul--color
@@ -217,36 +218,38 @@
         PasosA.color-acento-contenido.mb-5(tipo="n")
           .row.align-items-center
             .col-md-7.mb-4.mb-md-0
-              h3 Identificar prospectos según su momento de uso del producto
+              h4 Identificar prospectos según su momento de uso del producto
               p Hay ocasiones donde se considera que se considera la compra del producto en un momento específico, bien sea en un momento del año, ocasión especial o temporada.
             .col-md-5
               figure
-                img.rounded-3(data-aos='zoom-in-up')(src='@/assets/curso/temas/27.jpg', alt='Texto que describa la imagen')    
+                img.rounded-3(data-aos='zoom-in-up')(src='@/assets/curso/temas/27.jpg', alt='Texto que describa la imagen')
           .row.align-items-center
             .col-md-5
-              figure
-                img.rounded-3(data-aos='zoom-in')(src='@/assets/curso/temas/28.jpg', alt='Texto que describa la imagen')    
+              figure.mb-3.mb-lg-0
+                img.rounded-3(data-aos='zoom-in')(src='@/assets/curso/temas/28.jpg', alt='Texto que describa la imagen')
             .col-md-7.mb-4.mb-md-0
-              h3 Identificar prospectos según los beneficios que trae el producto
+              h4 Identificar prospectos según los beneficios que trae el producto
               p Hay prospectos que compran el producto de acuerdo con los beneficios que se obtienen cuando se adquiere el producto, por ejemplo, los productos de belleza suelen comprarse principalmente por los beneficios del producto que por la marca específicamente.
           .row.align-items-center
             .col-md-7.mb-4.mb-md-0
-              h3 Identificar prospectos por nivel de uso del producto
+              h4 Identificar prospectos por nivel de uso del producto
               p Los prospectos se pueden clasificar de acuerdo con el contacto con el producto, por ejemplo: si lo compró por primera vez (primerizo), lo dejó de comprar (exusuario), lo compra con frecuencia (habitual).
             .col-md-5
               figure
-                img.rounded-3(data-aos='zoom-in-up')(src='@/assets/curso/temas/29.jpg', alt='Texto que describa la imagen')    
+                img.rounded-3(data-aos='zoom-in-up')(src='@/assets/curso/temas/29.jpg', alt='Texto que describa la imagen')
           .row.align-items-center
             .col-md-5
-              figure
-                img.rounded-3(data-aos='zoom-in')(src='@/assets/curso/temas/30.jpg', alt='Texto que describa la imagen')    
+              figure.mb-3.mb-lg-0
+                img.rounded-3(data-aos='zoom-in')(src='@/assets/curso/temas/30.jpg', alt='Texto que describa la imagen')
             .col-md-7.mb-4.mb-md-0
-              h3 Identificar prospectos por nivel de fidelidad
+              h4 Identificar prospectos por nivel de fidelidad
               p En ocasiones es posible identificar los prospectos por el grado de preferencia o fidelidad hacia el producto o la marca, son prospectos que ya compraron el producto, por lo menos una vez, y ahora lo pueden recomendar. Aún así, hay prospectos que van cambiando de marcas y de productos constantemente, los cuales, también deben clasificarse.
     .tarjeta.rounded-0.margin-n.color-primario.bg-claro.texto-sistema.mb-5(data-aos='zoom-in')
-      .d-flex.justify-content-center.align-center
-        p.me-5.mb-0 Asímismo, las empresas deben conocer con frecuencia a los consumidores, identificar de cerca sus gustos, cambios de hábitos, intereses actuales, nuevos intereses y motivadores de compra. Para esto, la publicidad recobra una alta relevancia, porque es la encargada de llevar el mensaje comercial a cada tipo de público. Por ejemplo, una microempresa que vende ropa y calzado a mujeres, debe estar al tanto de las nuevas tendencias, cambios en la moda y gustos del público femenino, con el fin de orientar sus estrategias de mercadeo acorde con las nuevas tendencias que se presentan.
-        img(src='@/assets/curso/temas/31.svg' style='width:147px' )
+      .row.justify-content-center.align-items-center
+        .col-lg-10
+          p.mb-0 Asímismo, las empresas deben conocer con frecuencia a los consumidores, identificar de cerca sus gustos, cambios de hábitos, intereses actuales, nuevos intereses y motivadores de compra. Para esto, la publicidad recobra una alta relevancia, porque es la encargada de llevar el mensaje comercial a cada tipo de público. Por ejemplo, una microempresa que vende ropa y calzado a mujeres, debe estar al tanto de las nuevas tendencias, cambios en la moda y gustos del público femenino, con el fin de orientar sus estrategias de mercadeo acorde con las nuevas tendencias que se presentan.
+        .col-lg-2.col-8
+          img(src='@/assets/curso/temas/31.svg' )
     Separador
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 1.4  Arquetipos y buyer persona
@@ -255,10 +258,10 @@
         .row.justify-content-center.mb-3
           .col-lg-8
             p(data-aos='fade-right').mb-3 Luego de prospectar los clientes a partir de las variables de segmentación, las empresas comienzan un proceso de personalización de los prospectos con la creación de “personalidades de marca”, con las cuales se personifican las actitudes, pensamientos, hábitos y conductas de los posibles clientes que pueden adquirir el producto; a estas personalidades se les denominan “arquetipos” y “buyer persona”.
-          .col-lg-4.col-8: img.rounded-3(data-aos='zoom-in')(src='@/assets/curso/temas/32.jpg').mb-3.mb-lg-0
-          .col-auto
             p
               span.r-1 El concepto de Arquetipo se ha venido desarrollando a través de diferentes fases: 
+          .col-lg-4.col-8: img.rounded-3(data-aos='zoom-in')(src='@/assets/curso/temas/32.jpg').mb-3.mb-lg-0
+          .col-auto
           .col-12
             .tarjeta.color-acento-contenido.bg-claro.p-4.mb-3.mb-lg-0
               .d-lg-flex
@@ -286,7 +289,7 @@
               span.r-1 “un lenguaje intuitivo y accesible para describir y esencia de la marca” (Siraj y Kumari 2011).
         .d-flex.align-items-center.justify-content-center
             img(src="@/assets/curso/temas/dots.svg" style="width: 84px").me-3.d-lg-block.d-none
-            p.mb-0 Mark y Pearson (2001) identificaron 12 arquetipos de marca maestra clasificados dentro de 4 categorías, en su libro titulado <em>The Hero and the Outlaw.</em> Muchos de esos arquetipos, aún son vigentes y sirven como base para investigaciones cualitativas de marca.
+            p.mb-3.mb-lg-0 Mark y Pearson (2001) identificaron 12 arquetipos de marca maestra clasificados dentro de 4 categorías, en su libro titulado <em>The Hero and the Outlaw.</em> Muchos de esos arquetipos, aún son vigentes y sirven como base para investigaciones cualitativas de marca.
     p.mb-5 Todos los arquetipos enmarcan en sí unas características de conducta, modos de pensar, hábitos, entre otros, para servir de base en la identificación de los prospectos de la empresa:
     .row.justify-content-center.mb-5
       .col-lg-8
@@ -373,7 +376,7 @@
       .col-lg-3.col-8.mb-3.mb-lg-0
         .tarjeta.tarjeta-slide-arriba.bg-3-claro.p-5(style='height: 295px ')
             .tarjeta-slide-arriba__img
-              img(src='@/assets/curso/temas/43.svg')
+              img(src='@/assets/curso/temas/43.png')
             .d-inline.align-items-center
             .text-center
               h5
@@ -388,7 +391,7 @@
       .col-lg-3.col-8.mb-3.mb-lg-0
         .tarjeta.tarjeta-slide-arriba.bg-3-claro.p-5(style='height: 295px ')
             .tarjeta-slide-arriba__img
-              img(src='@/assets/curso/temas/44.svg')
+              img(src='@/assets/curso/temas/44.png')
             .d-inline.align-items-center
             .text-center
               h5
@@ -403,7 +406,7 @@
       .col-lg-3.col-8.mb-3.mb-lg-0
         .tarjeta.tarjeta-slide-arriba.bg-3-claro.p-5(style='height: 295px ')
             .tarjeta-slide-arriba__img
-              img(src='@/assets/curso/temas/45.svg')
+              img(src='@/assets/curso/temas/45.png')
             .d-inline.align-items-center
             .text-center
               h5
@@ -416,7 +419,7 @@
       .col-lg-3.col-8.mb-3.mb-lg-0
         .tarjeta.tarjeta-slide-arriba.bg-3-claro.p-5(style='height: 295px ')
             .tarjeta-slide-arriba__img
-              img(src='@/assets/curso/temas/46.svg')
+              img(src='@/assets/curso/temas/46.png')
             .d-inline.align-items-center
             .text-center
               h5

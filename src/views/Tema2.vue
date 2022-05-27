@@ -19,11 +19,11 @@
               span.r-1 “hoy en día se tiene tanto acceso a la información que se ha convertido en una desventaja competitiva”, 
               | es importante entender conceptos como dato, información, conocimiento y sistemas de información.
       .col-lg-3: img.rounded-3(data-aos='zoom-in')(src='@/assets/curso/temas/52.jpg')
-    TabsC.color-primario
+    TabsC.color-primario.tabs-editadas
       .py-3.py-md-4.px-5(titulo="Dato").bg-azul-claro
-        .row
+        .row.align-items-center
           .col-md-6.mb-4.mb-md-0
-            h4 
+            h3 
               span.r-1 Dato
             p Es toda información específica y concreta acerca de un elemento, hecho, o situación que permite analizarlos, estudiarlos, diagnosticarlos y conocerlos. 
               br
@@ -33,9 +33,9 @@
             figure
               img(src='@/assets/curso/temas/53.jpg', alt='Texto que describa la imagen')
       .py-3.py-md-4.px-5(titulo="Información").bg-azul-claro
-        .row
+        .row.align-items-center
           .col-md-6.mb-4.mb-md-0
-            h4 
+            h3 
               span.r-1 Información 
             p Es la presentación o agrupación de los datos significativos y en conjunto describen eventos, sucesos o eventos y con su procesamiento se puede elaborar un mensaje con sentido crítico.
         
@@ -43,9 +43,9 @@
             figure
               img(src='@/assets/curso/temas/54.jpg', alt='Texto que describa la imagen')
       .py-3.py-md-4.px-5(titulo="Conocimiento").bg-azul-claro
-        .row
+        .row.align-items-center
           .col-md-6.mb-4.mb-md-0
-            h4 
+            h3 
               span.r-1 Conocimiento 
             p Es el resultado de analizar, procesar, comparar y combinar los datos convertidos en información confiable de acuerdo con los intereses de la empresa. De esta forma, el sujeto o empresa pueden argumentar el manejo de la información.
         
@@ -53,9 +53,9 @@
             figure
               img(src='@/assets/curso/temas/55.jpg', alt='Texto que describa la imagen')
       .py-3.py-md-4.px-5(titulo="Sistemas de información (SI)").bg-azul-claro
-        .row
+        .row.align-items-center
           .col-md-6.mb-4.mb-md-0
-            h4 
+            h3 
               span.r-1 Sistemas de información (SI)
             p Son una serie de elementos que se relacionan y se integran (hardware y software) para recopilar, almacenar y procesar información que apoye la toma de decisiones. Adicionalmente, los sistemas de información apoyan el control y supervisión de la misma.
         
@@ -173,7 +173,7 @@
           .col-lg-4.col-8.order-1.order-lg-2.mb-3.mb-lg-0: img.rounded-3(data-aos='zoom-in')(src='@/assets/curso/temas/66.jpg')
           .col-12.order-3 
             p En este sentido, los titulares o dueños de la información que reposa en los bancos de datos, son las personas naturales o jurídicas a quienes se hace referencia y son la principal fuente de información para suministrar en diferentes casos.
-          .col-12.order-45 
+          .col-12.order-4
             .d-flex.align-items-center.justify-content-center.mb-3
               img(src="@/assets/curso/temas/dots-3.svg" style="width: 84px").me-3.d-lg-block.d-none
               p.mb-0 En cuanto al manejo de la información o datos personales, existen usuarios que deben acceder a la información con fines de consulta y de toma de decisiones, por ejemplo, los bancos o entidades financieras al momento de aprobar o no una solicitud.
@@ -220,7 +220,7 @@ export default {
 
 <style lang="sass">
 .bg-azul-claro
-  background-color: #bcd9dd
+  background-color: #d7e4f6
 .bg-verde-claro
   background-color: #b0c8cb
 .bg-tema2
@@ -228,4 +228,9 @@ export default {
   background-repeat: no-repeat
   background-size: 100% 100%
   background-position: start
+.tabs-editadas
+  .tabs-c__header
+    margin-bottom: 0
+  .tabs-c__tab
+    border-bottom: 4px solid $color-secundario
 </style>
