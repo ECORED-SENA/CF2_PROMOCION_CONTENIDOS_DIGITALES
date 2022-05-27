@@ -4,24 +4,4 @@
     "source.fixAll": true
   },
   "eslint.run": "onSave",
-  "workbench.colorCustomizations": {
-    "activityBar.activeBackground": "#1a5da5",
-    "activityBar.activeBorder": "#530d2f",
-    "activityBar.background": "#1a5da5",
-    "activityBar.foreground": "#e7e7e7",
-    "activityBar.inactiveForeground": "#e7e7e799",
-    "activityBarBadge.background": "#530d2f",
-    "activityBarBadge.foreground": "#e7e7e7",
-    "sash.hoverBorder": "#1a5da5",
-    "statusBar.background": "#134479",
-    "statusBar.foreground": "#e7e7e7",
-    "statusBarItem.hoverBackground": "#1a5da5",
-    "statusBarItem.remoteBackground": "#134479",
-    "statusBarItem.remoteForeground": "#e7e7e7",
-    "titleBar.activeBackground": "#134479",
-    "titleBar.activeForeground": "#e7e7e7",
-    "titleBar.inactiveBackground": "#13447999",
-    "titleBar.inactiveForeground": "#e7e7e799"
-  },
-  "peacock.color": "#134479",
 }

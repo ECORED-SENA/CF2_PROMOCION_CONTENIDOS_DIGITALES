@@ -35,7 +35,7 @@
             | Un consumidor sólo estará satisfecho cuando el valor asignado sea igual o superior al valor esperado. A continuación, se muestran los niveles del producto:
         .col-lg-5: img.rounded-3(data-aos='zoom-in')(src='@/assets/curso/temas/73.jpg')
       .row.justify-content-center.mb-5
-        .col-lg-4.col-8: img.rounded-3(data-aos='zoom-in')(src='@/assets/curso/temas/74.jpg')
+        .col-lg-4.col-8.mb-3.mb-lg-0: img.rounded-3(data-aos='zoom-in')(src='@/assets/curso/temas/74.jpg')
         .col-lg-8
           LineaTiempoD.lineaEditada
             p(numero="1" titulo="Producto principal") Un producto principal es cuando por ejemplo, se compra una chaqueta o suéter para protegerse del frío, no importa la marca, el precio, o material del abrigo, siempre que le resuelva su necesidad principal, en este caso: protección del clima.
@@ -132,7 +132,7 @@
         img(src="@/assets/curso/temas/dots-3.svg" style="width: 84px").me-3.d-lg-block.d-none
         p.mb-0(data-aos='fade-right') Los productos se clasifican en dos grandes grupos: los productos de consumo y los productos industriales. Los productos de consumo son aquellos que se orientan al consumidor final para su uso personal o familiar; de otro lado, los productos industriales se adquieren para un procesamiento posterior o realizar un negocio, hacen mención a los insumos para hacer otros productos.
       .row.justify-content-center.mb-5
-        .col-lg-5.col-8: img.rounded-3(data-aos='zoom-in')(src='@/assets/curso/temas/77.jpg')
+        .col-lg-5.col-8.mb-3.mb-lg-0: img.rounded-3(data-aos='zoom-in')(src='@/assets/curso/temas/77.jpg')
         .col-lg-7
           .titulo.rounded-pill.color-primario.p-2.d-inline-block.mb-4
             .text-white: h4.mb-0.me-3 Productos de consumo
@@ -188,7 +188,7 @@
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       .row.justify-content-center.mb-5
-          .col-lg-4.col-8
+          .col-lg-4.col-8.mb-3.mb-lg-0
             img(data-aos='zoom-in')(src='@/assets/curso/temas/80.jpg')
           .col-lg-8
             p Los principales atributos del producto son:
@@ -220,7 +220,7 @@
       p.mb-5 Existen otros atributos que, sin ser tangibles, juegan un papel importante en la toma de decisiones para la adquisición de un producto, estos son:
       .row.justify-content-center.mb-5
         .col-lg-4.col-8.mb-3.mb-lg-0
-          .tarjeta.tarjeta-slide-arriba.color-secundario.p-5(style='height: 400px ')
+          .tarjeta.tarjeta-slide-arriba.color-secundario.p-5(style='min-height: 450px ')
             .tarjeta-slide-arriba__img
               img(src='@/assets/curso/temas/90.jpg')
             img(src='@/assets/curso/temas/87.svg' style='width: 99px').m-auto.mb-3
@@ -228,7 +228,7 @@
               h5 Imagen del producto
               p Percepción del producto que se crea en la mente del consumidor según la información recibida del producto.
         .col-lg-4.col-8.mb-3.mb-lg-0
-          .tarjeta.tarjeta-slide-arriba.color-secundario.p-5(style='height: 400px ')
+          .tarjeta.tarjeta-slide-arriba.color-secundario.p-5(style='min-height: 450px ')
             .tarjeta-slide-arriba__img
               img(src='@/assets/curso/temas/91.jpg')
             img(src='@/assets/curso/temas/88.svg' style='width: 99px').m-auto.mb-3
@@ -236,7 +236,7 @@
               h5 Imagen de la empresa
               p Es una opinión generada en la memoria del mercado que interviene positiva o negativamente en los criterios y actitudes del consumidor hacia los productos. En muchos casos, compramos un producto porque la empresa que lo produce tiene una buena imagen o posicionamiento.
         .col-lg-4.col-8.mb-3.mb-lg-0
-          .tarjeta.tarjeta-slide-arriba.color-secundario.p-5(style='height: 400px ')
+          .tarjeta.tarjeta-slide-arriba.color-secundario.p-5(style='min-height: 450px ')
             .tarjeta-slide-arriba__img
               img(src='@/assets/curso/temas/92.jpg')
             img(src='@/assets/curso/temas/89.svg' style='width: 99px').m-auto.mb-3
@@ -253,14 +253,14 @@
             img(src='@/assets/curso/temas/93.svg', alt='Texto que describa la imagen')
       .tarjeta.bg-claro.color-secundario.margin-n.texto-sistema.rounded-0.mb-5
         .row.justify-content-center
-          .col-lg-3.col-8: img.rounded-3(data-aos='zoom-in')(src='@/assets/curso/temas/94.jpg')
+          .col-lg-3.col-8.mb-3.mb-lg-0: img.rounded-3(data-aos='zoom-in')(src='@/assets/curso/temas/94.jpg')
           .col-lg-6
             .cajon.color-acento-contenido.bg-claro.p-3.mb-4
               p.mb-0 El empaque puede convertirse en el elemento más importante en el proceso de comunicación y venta de un producto, su diseño, forma y presentación, hacen que el producto sea visible en una estantería o vitrina y logre persuadir al consumidor para tomar una decisión de compra.
                 br
                 br
                 |Así mismo, el empaque de un producto permite transportarlo de un lugar a otro, que el producto no sufra daños y lo mantiene limpio y fresco, en caso de que sea un alimento.
-          .col-lg-3.col-8: img.rounded-3(data-aos='zoom-in')(src='@/assets/curso/temas/95.jpg')
+          .col-lg-3.col-8.mb-3.mb-lg-0: img.rounded-3(data-aos='zoom-in')(src='@/assets/curso/temas/95.jpg')
           .col-12: p.mb-0 El empaque está más orientado al marketing y si bien, su objetivo es proteger el producto que lleva dentro, el principal objetivo es realmente vender. En algunos casos, el empaque suele ser lo mismo que el envase y tiene los siguientes elementos:
       TabsB.color-primario.mb-5
         .py-4.py-md-5(titulo="Etiqueta" :icono="require('@/assets/curso/temas/96.svg')")

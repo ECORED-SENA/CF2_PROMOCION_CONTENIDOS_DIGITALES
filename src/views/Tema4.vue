@@ -45,7 +45,7 @@
         img(src="@/assets/curso/temas/dots.svg" style="width: 84px").me-3.d-lg-block.d-none
         p.mb-0(data-aos='fade-right') Implementar estrategias de comunicación del producto, permite que la empresa pueda determinar cuál es la posición de cada producto en el mercado e identificar nuevas líneas de negocio o nuevos escenarios de comercialización. Esta labor puede ser impulsada por el equipo de ventas, debido a que está en contacto directo con el consumidor y recibe las recomendaciones, aciertos y acciones de mejora que pueden aplicarse al producto. Los pasos para llevar en este proceso son:        
       .row.justify-content-center.mb-5
-        .col-lg-3: img.rounded-3(data-aos='zoom-in' src='@/assets/curso/temas/104.jpg', alt='Texto que describa la imagen')
+        .col-lg-3.mb-3.mb-lg-0: img.rounded-3(data-aos='zoom-in' src='@/assets/curso/temas/104.jpg', alt='Texto que describa la imagen')
         .col-lg-9
           .row.justify-content-center.mb-lg-3(data-aos='zoom-in')
             .col-lg-4.mb-3.mb-lg-0
@@ -122,37 +122,37 @@
         .tarjeta.bg-verde-claro.p-5
           SlyderA(tipo="b")
             .row.align-items-center
-              .col-md-6.mb-4.mb-md-0
+              .col-lg-6.mb-4.mb-lg-0
                 h4 ¿Cómo funciona la matriz?
                 p El reto organizacional, consiste en ubicar cada producto en uno de los cuadrantes, los criterios de ubicación pueden ser el resultado de una investigación de mercados, diagnóstico interno, percepciones de los consumidores, entre otros. 
-              .col-md-6.mb-4.mb-md-0
+              .col-lg-6.mb-4.mb-lg-0
                 img(src="@/assets/curso/temas/113.jpg" )
             .row.align-items-center.justify-content-center
-              .col-md-8.mb-4.mb-md-0
+              .col-lg-8.mb-4.mb-lg-0
                 h4 Productos en “Interrogación” 
                 p Estos productos representan aquellos que van creciendo paulatinamente en el mercado, pero que aún no tienen la participación esperada por la empresa. Como variables deben considerarse el conocimiento y uso que el consumidor tenga del producto para impulsar su aprobación y que pase al siguiente nivel (estrella).
-              .col-md-3.mb-4.mb-md-0
+              .col-lg-3.col-8.mb-4.mb-lg-0
                 img(src="@/assets/curso/temas/114.svg" )
             .row.align-items-center.justify-content-center
-              .col-md-8.mb-4.mb-md-0
+              .col-lg-8.mb-4.mb-lg-0
                 h4 Productos en “Estrella”
                 p Se denominan así, porque son los productos que tienen la mayor participación y mayor crecimiento en el mercado. Ocupa un lugar privilegiado en la empresa porque representa el mayor ingreso y número de ventas en comparación con otros productos del portafolio. Aún así, requiere de inversión y atención especial por parte de la empresa.
-              .col-md-3.mb-4.mb-md-0
+              .col-lg-3.col-8.mb-4.mb-lg-0
                 img(src="@/assets/curso/temas/115.svg" )
             .row.align-items-center.justify-content-center
-              .col-md-8.mb-4.mb-md-0
+              .col-lg-8.mb-4.mb-lg-0
                 h4 Productos en “Vaca lechera”
                 p Los productos ubicados en este cuadrante, cuentan con una buena participación en el mercado (no tanto como en estrella), pero con un crecimiento estable. No requieren de altas inversiones porque son productos con alto posicionamiento, muy reconocidos por el consumidor, con buenas recomendaciones y con ventas e ingresos estables. La organización debe procurar por hacer pequeñas innovaciones en el producto, que le garanticen mantenerlo en el tiempo, pero que no cause disrupciones que conlleven una baja en las ventas.
-              .col-md-3.mb-4.mb-md-0
+              .col-lg-3.col-8.mb-4.mb-lg-0
                 img(src="@/assets/curso/temas/116.svg" )
             .row.align-items-center.justify-content-center
-              .col-md-8.mb-4.mb-md-0
+              .col-lg-8.mb-4.mb-lg-0
                 h4 Productos en “Perro” 
                 p Son productos con bajo posicionamiento, bajo reconocimiento y participación en el mercado. Identificar el producto “perro” es muy importante porque puede causar perjuicios al portafolio, en especial, porque no es atractivo y generar inconformidades. En este sentido, existen dos soluciones posibles; la primera es reinventarlo para lanzarlo como un producto nuevo o llegar a un nuevo mercado. La segunda es descartarlos completamente del portafolio.
-              .col-md-3.mb-4.mb-md-0
+              .col-lg-3.col-8.mb-4.mb-lg-0
                 img(src="@/assets/curso/temas/117.svg" )
       .row.justify-content-center.mb-5
-        .col-lg-4.col-8: img.rounded-3(data-aos='zoom-in')(src='@/assets/curso/temas/118.jpg')
+        .col-lg-4.col-8.mb-3.mb-lg-0: img.rounded-3(data-aos='zoom-in')(src='@/assets/curso/temas/118.jpg')
         .col-lg-8
           p(data-aos='fade-right') Como un buen resultado de la clasificación de los productos en la matriz BCG es la diversificación del portafolio de productos, pues representa un reto para la organización. Un portafolio pequeño, implica que la empresa tendrá una restringida participación en el mercado, por el contrario, tener un portafolio amplio, representan altas inversiones en publicidad y en talento humano para sostenerlo en el tiempo. Para mantener un equilibrio en esta situación, es importante considerar el siguiente proceso:
       figure.mb-5(data-aos='zoom-in')

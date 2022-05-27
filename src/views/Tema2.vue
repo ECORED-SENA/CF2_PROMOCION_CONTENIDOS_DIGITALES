@@ -68,17 +68,15 @@
     p(data-aos='fade-right').mb-5 Se entiende por fuente de información a cualquier recurso que funcione para cubrir una necesidad informativa. La expresión fuente se entiende como el documento o lugar donde se encuentra la información que se necesita. En conjunto, el concepto se forma como el lugar donde se origina o se encuentra la información. De acuerdo con esta naturaleza, podemos decir que existen dos fuentes de información:
     .row.justify-content-center.mb-4
       .col-lg-6.mb-3.mb-lg-0
-        .tarjeta-up
-          img(src="@/assets/curso/temas/57.jpg")
-          .tarjeta-up__content.color-primario.p-5
-            h3.mb-4 Fuentes de información primarias  
+        .tarjeta-up(:style="{'background-image': `url(${require('@/assets/curso/temas/57.jpg')})`}")
+          .tarjeta-up__content.color-primario.py-3.px-5
+            h3.my-3 Fuentes de información primarias  
             p Cuando los datos se obtienen directamente del origen como pueden ser las empresas, personas, eventos o la misma comunidad, el medio ambiente y todo espacio del cual se puede acceder de manera directa.
       .col-lg-6.mb-3.mb-lg-0
-        .tarjeta-up
-          img(src="@/assets/curso/temas/58.jpg")
-          .tarjeta-up__content.color-secundario.p-5
-            h3.mb-4 Fuentes de información secundarias 
-            p Son las publicaciones, artículos, videos, documentales y otros medios de información en la cual podemos obtener datos e información con un grado de procesamiento y análisis.    
+        .tarjeta-up(:style="{'background-image': `url(${require('@/assets/curso/temas/58.jpg')})`}")
+          .tarjeta-up__content.color-secundario.py-3.px-5
+            h3.my-3 Fuentes de información secundarias 
+            p Son las publicaciones, artículos, videos, documentales y otros medios de información en la cual podemos obtener datos e información con un grado de procesamiento y análisis.
     p.mb-5(data-aos='fade-right') Encontrar las fuentes confiables, requiere de cuidado ,porque de ello depende la validez de la información que va a recolectarse y por consiguiente, la validez de los resultados del estudio; los datos deben ser suficientes para su tratamiento.
     Separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos='fade-right') 
