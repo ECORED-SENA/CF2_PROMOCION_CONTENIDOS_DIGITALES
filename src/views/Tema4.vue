@@ -40,7 +40,7 @@
       p.mb-5(data-aos='fade-right') La comunicación del producto se refiere a las estrategias de marketing que se enfocan a la comercialización, venta y divulgación de los beneficios, atributos o características que se encuentran en las diferentes líneas que componen el portafolio. 
       figure.mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/hETivH98gc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       .d-flex.align-items-center.justify-content-center.mb-3
         img(src="@/assets/curso/temas/dots.svg" style="width: 84px").me-3.d-lg-block.d-none
         p.mb-0(data-aos='fade-right') Implementar estrategias de comunicación del producto, permite que la empresa pueda determinar cuál es la posición de cada producto en el mercado e identificar nuevas líneas de negocio o nuevos escenarios de comercialización. Esta labor puede ser impulsada por el equipo de ventas, debido a que está en contacto directo con el consumidor y recibe las recomendaciones, aciertos y acciones de mejora que pueden aplicarse al producto. Los pasos para llevar en este proceso son:        
@@ -94,7 +94,7 @@
       p.mb-5(data-aos='fade-right') Para ampliar la información lo invitamos a ver el siguiente video:
       figure.mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/_diB9m0iARk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       Separador
       #t_4_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
         h2 4.2  <em>Target</em> comunicacional
@@ -129,25 +129,25 @@
                 img(src="@/assets/curso/temas/113.jpg" )
             .row.align-items-center.justify-content-center
               .col-lg-8.mb-4.mb-lg-0
-                h4 Productos en “Interrogación” 
+                h4 Productos en “interrogación” 
                 p Estos productos representan aquellos que van creciendo paulatinamente en el mercado, pero que aún no tienen la participación esperada por la empresa. Como variables deben considerarse el conocimiento y uso que el consumidor tenga del producto para impulsar su aprobación y que pase al siguiente nivel (estrella).
               .col-lg-3.col-8.mb-4.mb-lg-0
                 img(src="@/assets/curso/temas/114.svg" )
             .row.align-items-center.justify-content-center
               .col-lg-8.mb-4.mb-lg-0
-                h4 Productos en “Estrella”
+                h4 Productos en “estrella”
                 p Se denominan así, porque son los productos que tienen la mayor participación y mayor crecimiento en el mercado. Ocupa un lugar privilegiado en la empresa porque representa el mayor ingreso y número de ventas en comparación con otros productos del portafolio. Aún así, requiere de inversión y atención especial por parte de la empresa.
               .col-lg-3.col-8.mb-4.mb-lg-0
                 img(src="@/assets/curso/temas/115.svg" )
             .row.align-items-center.justify-content-center
               .col-lg-8.mb-4.mb-lg-0
-                h4 Productos en “Vaca lechera”
+                h4 Productos en “vaca lechera”
                 p Los productos ubicados en este cuadrante, cuentan con una buena participación en el mercado (no tanto como en estrella), pero con un crecimiento estable. No requieren de altas inversiones porque son productos con alto posicionamiento, muy reconocidos por el consumidor, con buenas recomendaciones y con ventas e ingresos estables. La organización debe procurar por hacer pequeñas innovaciones en el producto, que le garanticen mantenerlo en el tiempo, pero que no cause disrupciones que conlleven una baja en las ventas.
               .col-lg-3.col-8.mb-4.mb-lg-0
                 img(src="@/assets/curso/temas/116.svg" )
             .row.align-items-center.justify-content-center
               .col-lg-8.mb-4.mb-lg-0
-                h4 Productos en “Perro” 
+                h4 Productos en “perro” 
                 p Son productos con bajo posicionamiento, bajo reconocimiento y participación en el mercado. Identificar el producto “perro” es muy importante porque puede causar perjuicios al portafolio, en especial, porque no es atractivo y generar inconformidades. En este sentido, existen dos soluciones posibles; la primera es reinventarlo para lanzarlo como un producto nuevo o llegar a un nuevo mercado. La segunda es descartarlos completamente del portafolio.
               .col-lg-3.col-8.mb-4.mb-lg-0
                 img(src="@/assets/curso/temas/117.svg" )

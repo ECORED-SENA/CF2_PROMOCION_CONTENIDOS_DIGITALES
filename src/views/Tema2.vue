@@ -77,7 +77,7 @@
           .tarjeta-up__content.color-secundario.py-3.px-5
             h3.my-3 Fuentes de información secundarias 
             p Son las publicaciones, artículos, videos, documentales y otros medios de información en la cual podemos obtener datos e información con un grado de procesamiento y análisis.
-    p.mb-5(data-aos='fade-right') Encontrar las fuentes confiables, requiere de cuidado ,porque de ello depende la validez de la información que va a recolectarse y por consiguiente, la validez de los resultados del estudio; los datos deben ser suficientes para su tratamiento.
+    p.mb-5(data-aos='fade-right') Encontrar las fuentes confiables, requiere de cuidado, porque de ello depende la validez de la información que va a recolectarse y por consiguiente, la validez de los resultados del estudio; los datos deben ser suficientes para su tratamiento.
     Separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos='fade-right') 
       h2 2.2  Métodos de recolección de información
@@ -99,7 +99,7 @@
           .col-md-6.mb-4.mb-md-0
             h4
               span.r-1 Entrevista
-            p Esta técnica obtiene datos a partir de la conversación con las personas objeto de investigación. La entrevista, a pesar de llevar un guion, puede arrojar diferentes resultados a partir de la forma cómo se aplique. Existen 3 tipos de entrevista: Estructurada, semiestructurada o no estructurada, cada una puede arrojar datos diferentes y más profundos.
+            p Esta técnica obtiene datos a partir de la conversación con las personas objeto de investigación. La entrevista, a pesar de llevar un guion, puede arrojar diferentes resultados a partir de la forma cómo se aplique. Existen 3 tipos de entrevista: estructurada, semiestructurada o no estructurada, cada una puede arrojar datos diferentes y más profundos.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/60.jpg', alt='Texto que describa la imagen')
@@ -126,8 +126,8 @@
         .row.align-items-center
           .col-md-6.mb-4.mb-md-0
             h4
-              span.r-1 Búsquedas web
-            p Consiste en encontrar información en bases de datos especializadas, sitios web, blogs entre otras redes que pueden ser confiables.
+              span.r-1 Búsquedas <em>web</em>
+            p Consiste en encontrar información en bases de datos especializadas, sitios <em>web</em>, <em>blogs</em> entre otras redes que pueden ser confiables.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/63.jpg', alt='Texto que describa la imagen')
@@ -139,7 +139,7 @@
         p Se entiende por procesamiento de información a la aplicación de técnicas usadas para el ordenamiento estratégico de los datos para el uso adecuado de las personas, en otras palabras, es cualquier organización o tratamiento de los elementos básicos de información (datos), mediante el empleo de un sistema informático o <em>software</em>. 
           br
           br
-          | Es un proceso que involucra una secuencia de pasos, que en cadena conllevan el recaudo de información para que responda a los objetivos de una investigación o estrategia de marketing.
+          | Es un proceso que involucra una secuencia de pasos, que en cadena conllevan el recaudo de información para que responda a los objetivos de una investigación o estrategia de <em>marketing</em>.
           br
           br
           |El procesamiento de información requiere:
@@ -160,11 +160,11 @@
           img(data-aos='zoom-in')(src='@/assets/curso/temas/65.svg', alt='Texto que describa la imagen')
     Separador
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos='fade-right') 
-      h2 2.4  Protección de datos y <em>habeas</em> data
+      h2 2.4  Protección de datos y <em>habeas data</em>
     .row.justify-content-center.mb-5
       .col-lg-9
         .row.justify-content-center
-          .col-lg-8.order-2.order-lg-1: p(data-aos='fade-right') El derecho de habeas data es el derecho que tienen las personas para: “conocer, actualizar y rectificar la información que se haya recogido sobre ella en archivos y bancos de datos de naturaleza pública o privada” (SIC, 2021).
+          .col-lg-8.order-2.order-lg-1: p(data-aos='fade-right') El derecho de <em>habeas data</em> es el derecho que tienen las personas para: “conocer, actualizar y rectificar la información que se haya recogido sobre ella en archivos y bancos de datos de naturaleza pública o privada” (SIC, 2021).
             br
             br
             | La Corte Constitucional la define como “el derecho que otorga la facultad al titular de datos personales de exigir de las administradoras de esos datos el acceso, inclusión, exclusión, corrección, adición, actualización y certificación de los datos, así como la limitación en las posibilidades de su divulgación, publicación o cesión, de conformidad con los principios que regulan el proceso de administración de datos personales”, con lo anterior se explica que es la persona quien es dueña de la administración de sus datos personales y es la única autorizada para divulgarlos o ceder el derecho de divulgación a una administradora de datos, como a otras personas.
@@ -177,7 +177,7 @@
               p.mb-0 En cuanto al manejo de la información o datos personales, existen usuarios que deben acceder a la información con fines de consulta y de toma de decisiones, por ejemplo, los bancos o entidades financieras al momento de aprobar o no una solicitud.
       .col-lg-3.col-8
         img(src='@/assets/curso/temas/67.jpg', alt='Texto que describa la imagen')
-    p.mb-5(data-aos='fade-right') De acuerdo con el Habeas Data, el dato personal es cualquier porción de información que se encuentra vinculada a una o varias personas, naturales o jurídicas de forma pública, privada o semiprivada. El carácter de público, semiprivado o privado lo confiere la ley y la Constitución, por ejemplo:
+    p.mb-5(data-aos='fade-right') De acuerdo con el <em>habeas data</em>, el dato personal es cualquier porción de información que se encuentra vinculada a una o varias personas, naturales o jurídicas de forma pública, privada o semiprivada. El carácter de público, semiprivado o privado lo confiere la ley y la constitución, por ejemplo:
     .row.justify-content-center.mb-5(data-aos='zoom-in')
       .col-lg-3.mb-3.mb-lg-0
         .tarjeta.color-primario.p-4.h-100

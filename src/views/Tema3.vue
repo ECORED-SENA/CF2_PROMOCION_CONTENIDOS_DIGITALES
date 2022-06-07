@@ -26,13 +26,13 @@
                     .h6.mb-0 American Marketing Asociation (A.M.A.)
       figure.mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/sAUSTEJgb5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       .row.justify-content-center.mb-5
         .col-lg-7
           p(data-aos='fade-right') Los productos no solo incluyen los objetos que se pueden adquirir o comprar, como carros, computadores, teléfonos celulares, entre otros, esta definición también incluye aquello que no es tangible, pero que lo disfrutamos como eventos, ingreso a lugares, ideas, o una mezcla de todo esto. El concepto “producto” se aborda en el sentido más amplio que incluye todo lo anterior, así un carro Toyota, una moto Pulsar y un café de Juan Valdéz son productos, como también lo son un viaje a Santa Marta, una asesoría o una capacitación en línea.
             br
             br
-            | Un consumidor sólo estará satisfecho cuando el valor asignado sea igual o superior al valor esperado. A continuación, se muestran los niveles del producto:
+            | Un consumidor solo estará satisfecho cuando el valor asignado sea igual o superior al valor esperado. A continuación, se muestran los niveles del producto:
         .col-lg-5: img.rounded-3(data-aos='zoom-in')(src='@/assets/curso/temas/73.jpg')
       .row.justify-content-center.mb-5
         .col-lg-4.col-8.mb-3.mb-lg-0: img.rounded-3(data-aos='zoom-in')(src='@/assets/curso/temas/74.jpg')
@@ -60,77 +60,77 @@
             figure
               img(src='@/assets/curso/temas/76.svg', alt='Texto que describa la imagen')
           div(x="31.5%" y="80.5%" tooltip="" numero="+")
-            .h5.mb-2 Aspectos clave en la etapa de Introducción
-            p Lento crecimiento de ventas 
+            .h5.mb-4 Aspectos clave en la etapa de Introducción
+            p Lento crecimiento de ventas. 
               br
               br
-              |Las utilidades son negativas o mínimas 
+              |Las utilidades son negativas o mínimas.
               br
               br
-              |Altos gastos de distribución y promoción 
+              |Altos gastos de distribución y promoción. 
           div(x="46.5%" y="80.5%" tooltip="" numero="+")
-            .h5.mb-2 Aspectos clave en la etapa de crecimiento
-            p Incremento en las ventas
+            .h5.mb-4 Aspectos clave en la etapa de crecimiento
+            p Incremento en las ventas.
               br
               br
-              |Ingreso de nuevos competidores
+              |Ingreso de nuevos competidores.
               br
               br
-              |Estabilidad o disminución de precios
+              |Estabilidad o disminución de precios.
               br
               br
-              |Educación de los consumidores
+              |Educación de los consumidores.
               br
               br
-              |Aumento de utilidades
+              |Aumento de utilidades.
               br
               br
-              |Los costos de promoción y producción alcanzan economías de escala
+              |Los costos de promoción y producción alcanzan economías de escala.
           div(x="61%" y="80.5%" tooltip="" numero="+")
-            .h5.mb-2 Aspectos clave en la etapa de madurez
-            p Disminución del crecimiento en las ventas
+            .h5.mb-4 Aspectos clave en la etapa de madurez
+            p Disminución del crecimiento en las ventas.
               br
               br
-              |Muchos proveedores
+              |Muchos proveedores.
               br
               br
-              |Productos sustitutos
+              |Productos sustitutos.
               br
               br
-              |Exceso de capacidad fomenta mayor competencia
+              |Exceso de capacidad fomenta mayor competencia.
               br
               br
               |Mayor promoción, investigación y desarrollo para apoyar las ventas y aumentar las utilidades.
 
             .h5.mb-2 Acciones
-            p Mercado 
+            p Mercado
               br
               br
               |Producto 
               br
               br
-              |Mezcla de marketing 
+              |Mezcla de <em>marketing</em> 
           div(x="75.7%" y="80.5%" tooltip="" numero="+")
-            .h5.mb-2 Aspectos clave en la etapa de declive o decadencia Aumento de gastos
+            .h5.mb-4 Aspectos clave en la etapa de declive o decadencia Aumento de gastos
             p Disminución considerable de ventas, utilidades y  posicionamiento.
             .h5.mb-2 Acciones
-            p Mantener el producto
+            p Mantener el producto.
               br
               br
-              |Innovación / Extensión
+              |Innovación / Extensión.
               br
               br
-              |Descartar el Producto
+              |Descartar el Producto.
         p.text-center Con el fin de ampliar el concepto y dar mayor nivel de entendimiento a las gráficas relacionadas con en el ciclo de vida del producto, observe el siguiente video. 
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/qxP87PYmQjk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       Separador
       #t_3_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
         h2 3.1  Tipos de productos
       .d-flex.align-items-center.justify-content-center.mb-3
         img(src="@/assets/curso/temas/dots-3.svg" style="width: 84px").me-3.d-lg-block.d-none
-        p.mb-0(data-aos='fade-right') Los productos se clasifican en dos grandes grupos: los productos de consumo y los productos industriales. Los productos de consumo son aquellos que se orientan al consumidor final para su uso personal o familiar; de otro lado, los productos industriales se adquieren para un procesamiento posterior o realizar un negocio, hacen mención a los insumos para hacer otros productos.
+        p.mb-0(data-aos='fade-right') Los productos se clasifican en dos grandes grupos: los productos de consumo y los productos industriales. <b>Los productos de consumo</b> son aquellos que se orientan al consumidor final para su uso personal o familiar; de otro lado, los <b>productos industriales</b> se adquieren para un procesamiento posterior o realizar un negocio, hacen mención a los insumos para hacer otros productos.
       .row.justify-content-center.mb-5
         .col-lg-5.col-8.mb-3.mb-lg-0: img.rounded-3(data-aos='zoom-in')(src='@/assets/curso/temas/77.jpg')
         .col-lg-7
@@ -186,7 +186,7 @@
         |Aunque se presentan unos atributos que pueden ser comunes, estos pueden cambiar o valorarse de forma diferente, dependiendo del tipo de producto.
       figure.mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/QrJ2hZkRpiM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       .row.justify-content-center.mb-5
           .col-lg-4.col-8.mb-3.mb-lg-0
             img(data-aos='zoom-in')(src='@/assets/curso/temas/80.jpg')

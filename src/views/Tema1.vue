@@ -40,7 +40,7 @@
             | Tener en cuenta referencias de los clientes actuales.
           li
             i.fas.fa-dot-circle.fa-xs
-            | Evaluar productos y servicios de otras empresas <em>(Benchmarking)</em>.
+            p.mb-0 Evaluar productos y servicios de otras empresas <em>(Benchmarking)</em>.
           li
             i.fas.fa-dot-circle.fa-xs
             | Explorar grupos y gremios.
@@ -52,7 +52,7 @@
             | Obtener referencias a partir de entrevistas a grupos focales.
           li
             i.fas.fa-dot-circle.fa-xs
-            | Evaluar las estrategias de marketing de otras empresas.
+            p.mb-0 Evaluar las estrategias de <em>marketing</em> de otras empresas.
           li
             i.fas.fa-dot-circle.fa-xs
             | Analizar publicaciones en revistas, periódicos e incluso datos académicos.
@@ -85,7 +85,7 @@
       .col-lg-7(data-aos='fade-right')
         p Las escalas de calificación dependen de los intereses de la empresa, debido a que algunas les darán mayor o menor valor a algunas variables dependiendo de su portafolio de productos, unos calificarán con mayor valor a la capacidad económica, otros calificarán el poder de decisión en la compra o la motivación.
         .cajon.color-primario.bg-claro.p-4.mb-4
-          p.mb-0 Para cerrar estos pasos se busca elaborar una lista de clientes en perspectiva y se organizan de acuerdo con su importancia y mayor valor, luego se elabora una base de datos y se organiza con un software especializado.
+          p.mb-0 Para cerrar estos pasos se busca elaborar una lista de clientes en perspectiva y se organizan de acuerdo con su importancia y mayor valor, luego se elabora una base de datos y se organiza con un <em>software</em> especializado.
       .col-lg-5(data-aos='zoom-in-up')
         img.rounded-3(src="@/assets/curso/temas/7.jpg").mb-5
     Separador
@@ -233,7 +233,7 @@
           .row.align-items-center
             .col-md-7.mb-4.mb-md-0
               h4 Identificar prospectos por nivel de uso del producto
-              p Los prospectos se pueden clasificar de acuerdo con el contacto con el producto, por ejemplo: si lo compró por primera vez (primerizo), lo dejó de comprar (exusuario), lo compra con frecuencia (habitual).
+              p Los prospectos se pueden clasificar de acuerdo con el contacto con el producto, por ejemplo: si lo compró por primera vez (primerizo), lo dejó de comprar (ex usuario), lo compra con frecuencia (habitual).
             .col-md-5
               figure
                 img.rounded-3(data-aos='zoom-in-up')(src='@/assets/curso/temas/29.jpg', alt='Texto que describa la imagen')
@@ -252,14 +252,14 @@
           img(src='@/assets/curso/temas/31.svg' )
     Separador
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 1.4  Arquetipos y <em>buyer</em>persona
+      h2 1.4  Arquetipos y <em>buyer</em> persona
     .row.justify-content-center
       .col-lg-9
         .row.justify-content-center.mb-3
           .col-lg-8
-            p(data-aos='fade-right').mb-3 Luego de prospectar los clientes a partir de las variables de segmentación, las empresas comienzan un proceso de personalización de los prospectos con la creación de “personalidades de marca”, con las cuales se personifican las actitudes, pensamientos, hábitos y conductas de los posibles clientes que pueden adquirir el producto; a estas personalidades se les denominan “arquetipos” y “buyer persona”.
+            p(data-aos='fade-right').mb-3 Luego de prospectar los clientes a partir de las variables de segmentación, las empresas comienzan un proceso de personalización de los prospectos con la creación de “personalidades de marca”, con las cuales se personifican las actitudes, pensamientos, hábitos y conductas de los posibles clientes que pueden adquirir el producto; a estas personalidades se les denominan “arquetipos” y “<em>buyer</em> persona”.
             p
-              span.r-1 El concepto de Arquetipo se ha venido desarrollando a través de diferentes fases: 
+              span.r-1 El concepto de arquetipo se ha venido desarrollando a través de diferentes fases: 
           .col-lg-4.col-8: img.rounded-3(data-aos='zoom-in')(src='@/assets/curso/temas/32.jpg').mb-3.mb-lg-0
           .col-auto
           .col-12
@@ -344,7 +344,7 @@
           .tarjeta.bg-azul-claro.p-3(x="95%" y="91%" numero="+")
             .text-center
               h4 Héroe
-              p Estos prospectos, suelen ir más allá de sus límites. Las marcas que configuran este arquetipo desean transmitir liderazgo, fuerza y autorrealización
+              p Estos prospectos, suelen ir más allá de sus límites. Las marcas que configuran este arquetipo desean transmitir liderazgo, fuerza y autorrealización.
     p.mb-5 Hoy día, los expertos en branding y construcción de marca, constantemente utilizan métodos para definir su personalidad a partir de las características y tendencias del mercado en el cual se encuentra el prospecto. La combinación estratégica de las variables de segmentación y tipos de mercado ayudan en la creación de los arquetipos de marca. En la construcción de una marca basada en el arquetipo, se pueden presentar en tres pasos: 
     .tarjeta.rounded-0.color-secundario.texto-sistema.margin-n.bg-claro.mb-5
       .row.justify-content-center
@@ -364,14 +364,14 @@
                 .bloque-texto-d__texto.mb-3
                   i.fas.fa-quote-left
                   p.text-regular El concepto de 
-                    span.r-1.fst-italic <em>buyer</em>persona 
+                    span.r-1.fst-italic <em>buyer</em> persona 
                     | es la construcción de un personaje ficticio usando aspectos etnográficos de una comunidad y aspectos psicográficos similares a otros individuos. Entre los aspectos etnográficos se destacan la edad, sexo, nivel económico y educativo, y aspectos psicográficos como el estilo de vida, formas de pensar y de actuar. 
                   i.fas.fa-quote-right
                 .bloque-texto-d__autor 
                   .h6.mb-0 (García, et al., 2019, p. 14-15). 
           .col-auto
-            p Valdés (2019), experto en mercadeo y <em>buyer</em>persona, presenta que el <em>buyer</em>persona es la construcción de un modelo de cliente con elementos de conducta online, comportamiento personal, orientación profesional y de relacionamiento con la empresa. Hoy día, el <em>buyer</em>persona se convierte en un pilar fundamental del inbound marketing (mercadeo de contenidos de valor), porque da a conocer los intereses, dolores y sentimientos del cliente y la información del lugar donde ese cliente busca el producto.
-    p.mb-5 Para que la empresa tenga una idea clara del <em>buyer</em>persona, se requiere reunir información relevante para crear un contenido de acuerdo con los intereses del público, la imagen de marca y el canal de distribución. La información que debe reunirse es:
+            p Valdés (2019), experto en mercadeo y <em>buyer</em> persona, presenta que el <em>buyer</em> persona es la construcción de un modelo de cliente con elementos de conducta online, comportamiento personal, orientación profesional y de relacionamiento con la empresa. Hoy día, el <em>buyer</em> persona se convierte en un pilar fundamental del <em>inbound marketing</em> (mercadeo de contenidos de valor), porque da a conocer los intereses, dolores y sentimientos del cliente y la información del lugar donde ese cliente busca el producto.
+    p.mb-5 Para que la empresa tenga una idea clara del <em>buyer</em> persona, se requiere reunir información relevante para crear un contenido de acuerdo con los intereses del público, la imagen de marca y el canal de distribución. La información que debe reunirse es:
     .row.justify-content-center.mb-5
       .col-lg-3.col-8.mb-3.mb-lg-0
         .tarjeta.tarjeta-slide-arriba.bg-3-claro.p-5(style='height: 295px ')
@@ -381,11 +381,11 @@
             .text-center
               h5
                 span.r-1 Comportamiento personal
-              p   Gustos.
+              p   Gustos
                 br
-                |Influenciadores.
+                |Influenciadores
                 br
-                |Motivadores.
+                |Motivadores
                 br
                 |Objetivos, etc.
       .col-lg-3.col-8.mb-3.mb-lg-0
@@ -396,13 +396,13 @@
             .text-center
               h5
                 span.r-1 Comportamiento digital
-              p  Uso de redes sociales.
+              p  Uso de redes sociales
                 br
-                |Compra online.
+                |Compra <em>online</em>
                 br
-                |Búsqueda de información.
+                |Búsqueda de información
                 br
-                |Sitios web que frecuenta.
+                |Sitios web que frecuenta
       .col-lg-3.col-8.mb-3.mb-lg-0
         .tarjeta.tarjeta-slide-arriba.bg-3-claro.p-5(style='height: 295px ')
             .tarjeta-slide-arriba__img
@@ -411,11 +411,11 @@
             .text-center
               h5
                 span.r-1 Comportamiento laboral
-              p  Ocupaciones.
+              p  Ocupaciones
                 br
-                |Funciones laborales.
+                |Funciones laborales
                 br
-                |Retos laborales.
+                |Retos laborales
       .col-lg-3.col-8.mb-3.mb-lg-0
         .tarjeta.tarjeta-slide-arriba.bg-3-claro.p-5(style='height: 295px ')
             .tarjeta-slide-arriba__img
@@ -424,14 +424,14 @@
             .text-center
               h5
                 span.r-1 Relaciones con la empresa
-              p  Valoración de la marca.
+              p  Valoración de la marca
                 br
-                |Conocimiento de la marca.
+                |Conocimiento de la marca
                 br
-                |Adquisición del producto.
+                |Adquisición del producto
                 br
-                |Interacción con la marca.
-    p.text-center.mb-5 En otros aspectos, Valdés amplía el concepto de <em>buyer</em>persona, dividiéndola en tres perfiles:
+                |Interacción con la marca
+    p.text-center.mb-5 En otros aspectos, Valdés amplía el concepto de <em>buyer</em> persona, dividiéndola en tres perfiles:
     .row.justify-content-center.mb-5(data-aos='zoom-in')
       .col-lg-3.mb-3.mb-lg-0
         .tarjeta.color-primario.p-4.h-100

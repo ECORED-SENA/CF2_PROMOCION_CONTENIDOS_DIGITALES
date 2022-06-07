@@ -183,24 +183,26 @@ export default {
       descarga: '/downloads/Ley_1266_de_2008.pdf',
     },
     {
-      texto: 'Kotler, P., y Armstrong, G. (2013). Fundamentos de Marketing. ',
+      texto:
+        'Kotler, P., y Armstrong, G. (2013). Fundamentos de <em>Marketing.</em> ',
       tipo: 'PDF',
       descarga: '/downloads/Fundamentos del Marketing-Kotler.pdf',
     },
     {
-      texto: 'Lane, K., & Kotler, P. (2006). Dirección de Marketing. ',
+      texto: 'Lane, K., & Kotler, P. (2006). Dirección de <em>Marketing</em>. ',
       tipo: 'PDF',
       descarga:
         '/downloads/libro direccion-de-marketing(kotler-keller_2006).pdf',
     },
     {
       texto:
-        'Negocios En Tu Mundo. (2012). Emprendedores, a diferenciar sus productos. Nada de commodities ',
+        'Negocios En Tu Mundo. (2012). Emprendedores, a diferenciar sus productos. Nada de <em>commodities</em> ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=GGAGkqStMJw',
     },
     {
-      texto: 'Negocios En Tu Mundo. (2012). ¿Qué es y qué no es el valor ',
+      texto:
+        'Negocios En Tu Mundo. (2012). ¿Qué es y qué no es el valor agregado? (Video). Youtube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=FpnYS2jtKJk',
     },
@@ -239,7 +241,7 @@ export default {
     {
       termino: 'Segmento de mercado',
       significado:
-        'Un segmento de mercado es un grupo de consumidores, en su mayoría homogéneo, ya sea por determinadas características o por sus necesidades, los cuales son identificados como un mercado que presenta deseos o hábitos de compra parecidas y que potencialmente responderían similar a la estrategia desarrollada por el mix de marketing.',
+        'Un segmento de mercado es un grupo de consumidores, en su mayoría homogéneo, ya sea por determinadas características o por sus necesidades, los cuales son identificados como un mercado que presenta deseos o hábitos de compra parecidas y que potencialmente responderían similar a la estrategia desarrollada por el <em>mix</em> de <em>marketing</em>.',
     },
   ],
   referencias: [
@@ -259,7 +261,7 @@ export default {
       link: '',
     },
     {
-      referencia: 'Ley 1266 de 2008',
+      referencia: 'Ley 1266 de 2008.',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=34488',
     },
@@ -346,7 +348,36 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Zuleidy María Ruíz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodríguez Rodríguez        ',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Camilo Andrés Bolaño Rey',
+        cargo: 'Locución',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Oleg Litvin ',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Erika Viviana Sandoval Rojas        ',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
@@ -358,7 +389,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Yuly Marcela Gómez Tarazona',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
