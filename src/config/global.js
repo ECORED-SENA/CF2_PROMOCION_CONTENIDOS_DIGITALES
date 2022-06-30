@@ -172,13 +172,13 @@ export default {
     {
       texto:
         'Academia Pragma. (s.f.). Conoce los 5 arquetipos digitales de los colombianos. ',
-      tipo: 'Articulo',
+      tipo: 'Artículo',
       link:
         'https://www.pragma.com.co/academia/conceptos/conoce-los-5-arquetipos-digitales-de-los-colombianos',
     },
     {
       texto:
-        'Departamento Adminisrativo de la Función Pública. (2008). Ley 1266 de 2008. ',
+        'Departamento Administrativo de la Función Pública. (2008). Ley 1266 de 2008. ',
       tipo: 'PDF',
       descarga: '/downloads/Ley_1266_de_2008.pdf',
     },
@@ -202,7 +202,7 @@ export default {
     },
     {
       texto:
-        'Negocios En Tu Mundo. (2012). ¿Qué es y qué no es el valor agregado? (Video). Youtube.',
+        'Negocios En Tu Mundo. (2012). ¿Qué es y qué no es el valor agregado? (Video). YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=FpnYS2jtKJk',
     },

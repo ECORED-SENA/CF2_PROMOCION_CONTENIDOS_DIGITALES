@@ -12,7 +12,7 @@
             p(data-aos='fade') El concepto de portafolio de productos, hace referencia a todas las líneas y categorías de productos que comercializa la empresa. Un portafolio de productos bien estructurado, consta de categorías o líneas enfocadas a cada uno de los segmentos del mercado en los cuales tiene presencia la empresa. El equipo de ventas, puede especializarse de acuerdo con cada línea o categoría; por ejemplo: en una empresa de calzado, se pueden encontrar vendedores especializados en la línea masculina y otros en la línea femenina, o en la categoría deportiva o categoría formal, entre otros. El portafolio permite conocer de primera mano, el enfoque del plan de ventas, los beneficios que la empresa y la perspectiva de crecimiento en el mercado. En las empresas de servicios, se denomina “portafolio de servicios”.
       .titulo.rounded-pill.color-primario.p-2.d-inline-block.mb-4
         .text-white: h4.mb-0.me-3 Estructura de un portafolio de productos
-      p.mb-5(data-aos='fade-right') Una empresa puede estructurar sus productos en categorías o líneas de acuerdo con la cantidad y enfoque de mercado. Cada categoría o línea puede subdividirse en marcas, modelos, precios, tamaños, etc, por ejemplo:
+      p.mb-5(data-aos='fade-right') Una empresa puede estructurar sus productos en categorías o líneas de acuerdo con la cantidad y enfoque de mercado. Cada categoría o línea puede subdividirse en marcas, modelos, precios, tamaños, etc. por ejemplo:
       .row.justify-content-center.mb-5
         .col-lg-10(data-aos='zoom-in')
           .titulo-sexto.color-acento-contenido
@@ -37,7 +37,7 @@
       Separador
       #t_4_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
         h2 4.1  Comunicación del producto
-      p.mb-5(data-aos='fade-right') La comunicación del producto se refiere a las estrategias de marketing que se enfocan a la comercialización, venta y divulgación de los beneficios, atributos o características que se encuentran en las diferentes líneas que componen el portafolio. 
+      p.mb-5(data-aos='fade-right') La comunicación del producto se refiere a las estrategias de <em>marketing</em> que se enfocan a la comercialización, venta y divulgación de los beneficios, atributos o características que se encuentran en las diferentes líneas que componen el portafolio. 
       figure.mb-5
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/hETivH98gc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -102,12 +102,12 @@
         .col-lg-9
           .row.justify-content-center
             .col-lg-8.order-2.order-lg-1.mb-3.mb-lg-0
-              p La administración de un portafolio de productos, requiere de estrategia, seguimiento y verificación constante de resultados, en especial, porque requiere del compromiso de todo el equipo de ventas bajo la supervisión del director o gerente de ventas. Por lo anterior, la administración de un portafolio de productos se convierte en un reto para todos los tipos de empresas por ser un proceso decisivo para el modelo de negocio, esto conlleva a que la empresa tenga que identificar en qué momento debe ampliar el portafolio y cómo realizar una buena gestión que incluya el diseño constante de estrategias de marketing para su divulgación.
+              p La administración de un portafolio de productos, requiere de estrategia, seguimiento y verificación constante de resultados, en especial, porque requiere del compromiso de todo el equipo de ventas bajo la supervisión del director o gerente de ventas. Por lo anterior, la administración de un portafolio de productos se convierte en un reto para todos los tipos de empresas por ser un proceso decisivo para el modelo de negocio, esto conlleva a que la empresa tenga que identificar en qué momento debe ampliar el portafolio y cómo realizar una buena gestión que incluya el diseño constante de estrategias de <em>marketing</em> para su divulgación.
             .col-lg-4.mb-3.mb-lg-0.col-8.order-1.order-lg-2: img.rounded-3(data-aos='zoom-in')(src='@/assets/curso/temas/110.jpg', alt='Texto que describa la imagen')
             .col-12.order-3
               .titulo.rounded-pill.color-primario.p-2.d-inline-block.mb-4
                 .text-white: h4.mb-0.me-3 Gestión del portafolio de productos con la Matriz BCG
-              p Para la gestión del portafolio de productos, es recomendado utilizar la matriz BCG <em>(Matriz Boston Consulting Group)</em>, creada por esta firma en la década de los 70 y que aún sigue vigente, no sólo para gestionar el portafolio, sino también, las diferentes líneas de producción. El principal alcance de esta matriz es determinar el ciclo de vida de cada uno de los productos y su comportamiento en el mercado, con la finalidad de aplicar con mayor eficacia los recursos en cada producto.
+              p Para la gestión del portafolio de productos, es recomendado utilizar la matriz BCG <em>(Matriz Boston Consulting Group)</em>, creada por esta firma en la década de los 70 y que aún sigue vigente, no solo para gestionar el portafolio, sino también, las diferentes líneas de producción. El principal alcance de esta matriz es determinar el ciclo de vida de cada uno de los productos y su comportamiento en el mercado, con la finalidad de aplicar con mayor eficacia los recursos en cada producto.
         .col-lg-3.col-8: img.rounded-3(data-aos='zoom-in')(src='@/assets/curso/temas/111.jpg')
       p.mb-5(data-aos='fade-right') A continuación, se revisará en detalle la construcción de la matriz:
       .d-flex.align-items-center.justify-content-center.mb-3
@@ -157,7 +157,7 @@
           p(data-aos='fade-right') Como un buen resultado de la clasificación de los productos en la matriz BCG es la diversificación del portafolio de productos, pues representa un reto para la organización. Un portafolio pequeño, implica que la empresa tendrá una restringida participación en el mercado, por el contrario, tener un portafolio amplio, representan altas inversiones en publicidad y en talento humano para sostenerlo en el tiempo. Para mantener un equilibrio en esta situación, es importante considerar el siguiente proceso:
       figure.mb-5(data-aos='zoom-in')
         img(src='@/assets/curso/temas/119.svg', alt='Texto que describa la imagen')
-      p.mb-5(data-aos='fade-right') En el plan de marketing, convergen todos los resultados de la investigación, tales como público objetivo, información del mercado, canales de distribución, estrategias de comunicación entre otras. Resulta ser el documento más importante que le brinda sostenimiento y proyección a la empresa.
+      p.mb-5(data-aos='fade-right') En el plan de <em>marketing</em>, convergen todos los resultados de la investigación, tales como público objetivo, información del mercado, canales de distribución, estrategias de comunicación entre otras. Resulta ser el documento más importante que le brinda sostenimiento y proyección a la empresa.
 
 
 

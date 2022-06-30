@@ -8,10 +8,10 @@
       h1 Prospección de los clientes
     .row.justify-content-center.mb-5
       .col-lg-7(data-aos='fade-right') 
-        p.mb-4  El concepto prospección de clientes, hace referencia a la identificación y geolocalización del target potencial que pueden convertirse en usuarios o consumidores del producto. Estos procesos se logran con la aplicación de metodologías de segmentación y de investigación de mercados que permiten encontrar los clientes potenciales de la organización. 
+        p.mb-4  El concepto prospección de clientes, hace referencia a la identificación y geolocalización del <em>target</em> potencial que pueden convertirse en usuarios o consumidores del producto. Estos procesos se logran con la aplicación de metodologías de segmentación y de investigación de mercados que permiten encontrar los clientes potenciales de la organización. 
         .d-flex.align-items-center.justify-content-center.mb-3.mb-lg-0
             img(src="@/assets/curso/temas/dots.svg" style="width: 84px").me-3.d-lg-block.d-none
-            p.mb-0 Con el fin de ampliar el concepto y también los elementos que hacen parte de la prospección la siguiente, la siguiente figura detalla aspectos que son relevantes en el ciclo de la venta y los factores que lo integran a nivel de validación, referidos y la forma como se gestionan.
+            p.mb-0 Con el fin de ampliar el concepto y también los elementos que hacen parte de la prospección, la siguiente figura detalla aspectos que son relevantes en el ciclo de la venta y los factores que lo integran a nivel de validación, referidos y la forma como se gestionan.
       .col-lg-5.col-8: img.rounded-3(data-aos='zoom-in-up')(src="@/assets/curso/temas/0.jpg")
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -167,7 +167,7 @@
           p.text-center
             span.r-1.text-center Desarrollo de la entrevista
               br
-            .text-start Debe ser un momento casi “mágico”, donde la empresa pone a prueba toda su capacidad de atracción hacia la compra o bien hacia la vinculación con el objeto de la empresa. La entrevista puede ser presencial o virtual; en caso de la presencial, requiere una planificación previa para contar con la plena disponibilidad del prospecto. En el caso de la virtual, aunque cada participante está en su lugar de trabajo o de vivienda, igualmente debe contar con la disposición y condiciones para desarrollarla plenamente.Cuando el entrevistador realiza una llamada telefónica y desarrolla las preguntas.
+            .text-start Debe ser un momento casi “mágico”, donde la empresa pone a prueba toda su capacidad de atracción hacia la compra o bien hacia la vinculación con el objeto de la empresa. La entrevista puede ser presencial o virtual; en caso de la presencial, requiere una planificación previa para contar con la plena disponibilidad del prospecto. En el caso de la virtual, aunque cada participante está en su lugar de trabajo o de vivienda, igualmente debe contar con la disposición y condiciones para desarrollarla plenamente.
     
       .col-lg-4.mb-4
         .tarjeta.tarjeta-avatar-slide.bg-verde.rounded-2.p-4.h-100
@@ -219,7 +219,7 @@
           .row.align-items-center
             .col-md-7.mb-4.mb-md-0
               h4 Identificar prospectos según su momento de uso del producto
-              p Hay ocasiones donde se considera que se considera la compra del producto en un momento específico, bien sea en un momento del año, ocasión especial o temporada.
+              p Hay ocasiones donde se considera que la compra del producto en un momento específico, bien sea en un momento del año, ocasión especial o temporada.
             .col-md-5
               figure
                 img.rounded-3(data-aos='zoom-in-up')(src='@/assets/curso/temas/27.jpg', alt='Texto que describa la imagen')
@@ -315,7 +315,7 @@
               p Aunque su nombre es un poco extraño, las marcas que ubican a sus prospectos en el arquetipo de “mago”, hacen referencia a los sueños y fantasías por cumplir y tienen la intención de hacer realidad sus deseos con la compra del producto.
           .tarjeta.bg-azul-claro.p-3(x="20%" y="63%" numero="+")
             .text-center
-              h4 Bufon
+              h4 Bufón
               p Las marcas con arquetipos “bufones”, se refieren a que son animadores, impulsivos, espontáneos, expresan alegría y siempre quieren divertirse. 
           .tarjeta.bg-azul-claro.p-3(x="45%" y="63%" numero="+")
             .text-center
@@ -453,7 +453,7 @@
           p Es quien opina e influencia en la compra.
     .row.justify-content-center.mb-5
       .col-lg-8(data-aos='fade-right')
-        p Para la creación del <em>buyer</em>persona, usted puede tener presentes los siguiente cuatro pasos con los que se consolida este modelo de proyección:
+        p Para la creación del <em>buyer</em>persona, usted puede tener presentes los siguientes cuatro pasos con los que se consolida este modelo de proyección:
         ol.lista-ol--cuadro
           li
             .lista-ol--cuadro__vineta

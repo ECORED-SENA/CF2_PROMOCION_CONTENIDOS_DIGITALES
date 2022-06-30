@@ -27,7 +27,7 @@
               span.r-1 Dato
             p Es toda información específica y concreta acerca de un elemento, hecho, o situación que permite analizarlos, estudiarlos, diagnosticarlos y conocerlos. 
               br
-              |Por ejemplo: crecimiento económico del 3%, donde 3% es la expresión que debe analizarse en relación con el contexto “crecimiento económico”.
+              |Por ejemplo: crecimiento económico del 3 %, donde 3 % es la expresión que debe analizarse en relación con el contexto “crecimiento económico”.
         
           .col-md-6
             figure
@@ -57,7 +57,7 @@
           .col-md-6.mb-4.mb-md-0
             h3 
               span.r-1 Sistemas de información (SI)
-            p Son una serie de elementos que se relacionan y se integran (hardware y software) para recopilar, almacenar y procesar información que apoye la toma de decisiones. Adicionalmente, los sistemas de información apoyan el control y supervisión de la misma.
+            p Son una serie de elementos que se relacionan y se integran (<em>hardware</em> y <em>software</em>) para recopilar, almacenar y procesar información que apoye la toma de decisiones. Adicionalmente, los sistemas de información apoyan el control y supervisión de la misma.
         
           .col-md-6
             figure

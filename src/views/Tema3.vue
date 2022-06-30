@@ -13,7 +13,7 @@
             .col-lg-5.col-8.mb-3.mb-lg-0: img.rounded-3(data-aos='zoom-in')(src='@/assets/curso/temas/72.jpg')
             .col-lg-7
               p(data-aos='fade-right') 
-                span.r-1 ”Un producto es más que una cosa”
+                span.r-1 “Un producto es más que una cosa”
                 |, es una afirmación dada por el economista Philip Kotler, experto reconocido en el campo del <em>marketing</em>. El producto debe satisfacer las diferentes necesidades del consumidor y agregar valor (beneficios percibidos), de acuerdo con esto, Kotler afirma que existen cinco niveles de productos (los cuales se explicarán más adelante) de acuerdo con el grado de percepción de sus beneficios, indicando así, el valor que el consumidor le asigna al producto.
             .col-lg-12
               .cajon-editado
@@ -29,7 +29,7 @@
           iframe(width="560" height="315" src="https://www.youtube.com/embed/sAUSTEJgb5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       .row.justify-content-center.mb-5
         .col-lg-7
-          p(data-aos='fade-right') Los productos no solo incluyen los objetos que se pueden adquirir o comprar, como carros, computadores, teléfonos celulares, entre otros, esta definición también incluye aquello que no es tangible, pero que lo disfrutamos como eventos, ingreso a lugares, ideas, o una mezcla de todo esto. El concepto “producto” se aborda en el sentido más amplio que incluye todo lo anterior, así un carro Toyota, una moto Pulsar y un café de Juan Valdéz son productos, como también lo son un viaje a Santa Marta, una asesoría o una capacitación en línea.
+          p(data-aos='fade-right') Los productos no solo incluyen los objetos que se pueden adquirir o comprar, como carros, computadores, teléfonos celulares, entre otros, esta definición también incluye aquello que no es tangible, pero que lo disfrutamos como eventos, ingreso a lugares, ideas, o una mezcla de todo esto. El concepto “producto” se aborda en el sentido más amplio que incluye todo lo anterior, así un carro Toyota, una moto Pulsar y un café de Juan Valdez son productos, como también lo son un viaje a Santa Marta, una asesoría o una capacitación en línea.
             br
             br
             | Un consumidor solo estará satisfecho cuando el valor asignado sea igual o superior al valor esperado. A continuación, se muestran los niveles del producto:
@@ -175,7 +175,7 @@
             .d-flex.align-items-center.mb-3
               img(src='@/assets/curso/temas/80.svg' style='width:69px').me-3.mb-3.mb-lg-0
               h4.text-white.mb-0 Suministros y servicios
-            p Artículos para reparación , mantenimiento y servicios de negocios.
+            p Artículos para reparación, mantenimiento y servicios de negocios.
       p.mb-5 Al conocer el tipo de producto es posible definir cuál es el precio con el que puede lanzarse al mercado, identificar los canales de distribución en los que se puede comercializar, qué tipo de promoción, entre otros factores importantes, ayudarán a la construcción del plan de <em>marketing</em>.
       Separador
       #t_3_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
@@ -243,7 +243,7 @@
             .text-white.text-center
               h5 Calidad
               p Es la valoración de los elementos que componen el producto, en relación de unos estándares que miden las cualidades y lo comparan con la competencia.
-      p(data-aos='fade-right').mb-5 Así como los atributos, las características de un producto se dividen en generales y técnicas. Se diferencian de los atributos porque al modificar una característica genera un cambio en el producto, no lo suficiente para indicar que es un producto diferente, pero si que sea susceptible de comercialización. Las características son:
+      p(data-aos='fade-right').mb-5 Así como los atributos, las características de un producto se dividen en generales y técnicas. Se diferencian de los atributos porque al modificar una característica genera un cambio en el producto, no lo suficiente para indicar que es un producto diferente, pero sí que sea susceptible de comercialización. Las características son:
       .row.justify-content-center.mb-5
         .col-lg-6(data-aos='zoom-in')
           .titulo-sexto.color-acento-contenido
@@ -261,7 +261,7 @@
                 br
                 |Así mismo, el empaque de un producto permite transportarlo de un lugar a otro, que el producto no sufra daños y lo mantiene limpio y fresco, en caso de que sea un alimento.
           .col-lg-3.col-8.mb-3.mb-lg-0: img.rounded-3(data-aos='zoom-in')(src='@/assets/curso/temas/95.jpg')
-          .col-12: p.mb-0 El empaque está más orientado al marketing y si bien, su objetivo es proteger el producto que lleva dentro, el principal objetivo es realmente vender. En algunos casos, el empaque suele ser lo mismo que el envase y tiene los siguientes elementos:
+          .col-12: p.mb-0 El empaque está más orientado al <em>marketing</em> y si bien, su objetivo es proteger el producto que lleva dentro, el principal objetivo es realmente vender. En algunos casos, el empaque suele ser lo mismo que el envase y tiene los siguientes elementos:
       TabsB.color-primario.mb-5
         .py-4.py-md-5(titulo="Etiqueta" :icono="require('@/assets/curso/temas/96.svg')")
           .row
@@ -277,7 +277,7 @@
             .col-md-6.mb-4.mb-md-0
               h4
                 span.r-1 Envase
-              p Es el contenedor que está en contacto directo con el producto, permite su protección y evita su esparcimiento. Algunos ejemplos de envases son las bolsas de snacks, botellas de agua, la caja de un computador, entre otras. Al igual que el empaque, el envase también cumple la función de ofrecer una presentación adecuada del producto que facilite la venta, la manipulación, almacenamiento y distribución.
+              p Es el contenedor que está en contacto directo con el producto, permite su protección y evita su esparcimiento. Algunos ejemplos de envases son las bolsas de <em>snacks</em>, botellas de agua, la caja de un computador, entre otras. Al igual que el empaque, el envase también cumple la función de ofrecer una presentación adecuada del producto que facilite la venta, la manipulación, almacenamiento y distribución.
             .col-md-6
               figure
                 img(src='@/assets/curso/temas/100.jpg', alt='Texto que describa la imagen')
