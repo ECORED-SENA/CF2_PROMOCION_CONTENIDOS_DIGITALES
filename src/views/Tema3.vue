@@ -261,7 +261,7 @@
                 br
                 |Así mismo, el empaque de un producto permite transportarlo de un lugar a otro, que el producto no sufra daños y lo mantiene limpio y fresco, en caso de que sea un alimento.
           .col-lg-3.col-8.mb-3.mb-lg-0: img.rounded-3(data-aos='zoom-in')(src='@/assets/curso/temas/95.jpg')
-          .col-12: p.mb-0 El empaque está más orientado al <em>marketing</em> y si bien, su objetivo es proteger el producto que lleva dentro, el principal objetivo es realmente vender. En algunos casos, el empaque suele ser lo mismo que el envase y tiene los siguientes elementos:
+          .col-12: p.mb-0 El empaque está más orientado al <em style='color: #12263f !important'>marketing</em> y si bien, su objetivo es proteger el producto que lleva dentro, el principal objetivo es realmente vender. En algunos casos, el empaque suele ser lo mismo que el envase y tiene los siguientes elementos:
       TabsB.color-primario.mb-5
         .py-4.py-md-5(titulo="Etiqueta" :icono="require('@/assets/curso/temas/96.svg')")
           .row
